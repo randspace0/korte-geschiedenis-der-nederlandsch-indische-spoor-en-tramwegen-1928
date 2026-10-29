@@ -3,14 +3,19 @@
 ## Catatan editorial
 
 - **Karya asli:** S. A. Reitsma, *Korte geschiedenis der Nederlandsch-Indische spoor- en tramwegen*. G. Kolff & Co., Weltevreden, 1928.
-- **Sumber teks:** `/tmp/book.txt`, 9538 baris OCR. Berkas pindaian `/tmp/book.pdf` (hal. 5 = halaman PDF 11, hal. 6 = 12, hal. 20 = 32; halaman PDF 13–14, 19–20, dan 25–26 berisi gambar sisipan atau halaman kosong) telah dibuka untuk hal. 5–20 Bab I guna memeriksa angka, tanggal, dan keterangan gambar. Kata pengantar dan halaman judul belum dicocokkan dengan pindaian. OCR dapat mengandung kesalahan.
-- **Status: Belum lengkap.** Selesai diterjemahkan: halaman judul, kata pengantar, judul Bagian A, Bab I, Bab II, Bab III, Bab IV, Bab V, dan Bab VI. Rincian: Bab I (sumber baris 1–1235, dicocokkan dengan teks OCR dan, untuk Bab I, dengan pindaian), dan Bab II (sumber baris 1236–2093, dicocokkan ulang dengan teks OCR seluruhnya; dengan pindaian hanya halaman PDF 33–36, 38, 42, 44, dan 45, yaitu hal. 21–24, 26, 30, 32, dan 33 cetak. Penanda halaman Bab II mengikuti nomor yang tercetak di bagian atas halaman; hal. 21, pembuka bab, tidak bernomor sehingga tidak diberi penanda. Halaman lain Bab II hanya dicocokkan dengan OCR. Tidak ditemukan catatan kaki maupun judul tepi di Bab II pada halaman yang dipindai). Bab III (sumber baris 2094–2757, Kereta Api Negara dan Kereta Api Swasta dari 1875 hingga 1883) juga selesai diterjemahkan dan dicocokkan ulang dengan teks OCR seluruhnya; dengan pindaian halaman PDF 46–49 (hal. 34–37 cetak), 50–54 (hal. 38–42 cetak), dan 55 (hal. 43 cetak); halaman PDF 46–49 dan 55 dibuka pada pemeriksaan ulang akhir dan tidak menunjukkan selisih angka, tanggal, atau suara dibandingkan OCR, termasuk "5 Agustus 1883", "No 1a" (19 Februari 1884), "23 Februari 1884 No 8", dan angka-angka konsesi trem Batavia. Pada pindaian hal. 43, catatan kaki bernomor 1) dengan garis pemisah di dasar halaman adalah catatan kaki asli, bukan judul tepi; tidak ditemukan judul tepi pada hal. 34–43. Di Bab II, jumlah obligasi yang ditempatkan di Inggris (hal. 22) tertutup coretan tinta pada pindaian dan ditandai [tidak terbaca]; angka 2020 obligasi tersisa terbaca jelas pada pindaian. Penanda halaman Bab III mengikuti nomor cetak di bagian atas halaman (hal. 35–43); halaman pembuka bab (hal. 34) tidak bernomor sehingga tidak diberi penanda. Bab III memuat satu catatan kaki (lintas pelabuhan Tandjong Priok-Batavia, hal. 43), dimuat sebagai [^bab3-1] di akhir bab (ID catatan kaki dibuat unik per bab). Bab IV (sumber baris 2758–3104, Tahun-Tahun Keragu-raguan hingga Terwujudnya Lintas Induk pada 1889, hal. 44–49 cetak) juga selesai diterjemahkan dan dicocokkan ulang dengan teks OCR seluruhnya; dengan pindaian halaman PDF 57–61 (hal. 45–49 cetak) untuk tanggal dan angka yang meragukan dalam OCR ("1 Januari 1886", "14 Agustus 1890", "1 November 1894", "1 Oktober 1889", "1 Januari 1890", jaminan bunga 3½%). Penanda halaman Bab IV mengikuti nomor cetak (hal. 45–49); halaman pembuka bab (hal. 44) tidak bernomor sehingga tidak diberi penanda. Pada pemeriksaan ulang akhir, seluruh paragraf Bab IV dibandingkan lagi dengan teks OCR baris 2758-3104 dan halaman PDF 56-61 (hal. 44-49 cetak) dibuka kembali; tidak ada selisih isi, angka, atau tanggal, dan tidak ditemukan judul tepi. Bab IV tidak memuat catatan kaki maupun tabel (tidak ada ID catatan kaki bab4-N); teks "Korte Geschiedenis der N.I. S. en T. 4" di baris 3104 adalah tanda signatur cetak di dasar halaman dan dihilangkan. Bab V (sumber baris 3105–3621, Kurun hingga Penetapan Rencana Umum Perkeretaapian 1893, hal. 50–57 cetak) juga selesai diterjemahkan dan dibaca ulang terhadap teks OCR; dengan pindaian halaman PDF 62–69 (hal. 50–57 cetak) untuk dua angka/nama yang meragukan dalam OCR: jaminan bunga "3¾%" (OCR: "3 334%/4 %") dan nama "R.H. Eyssonius de Waal". Pada gerbang verifikasi akhir, seluruh paragraf Bab V dibaca ulang terhadap teks OCR baris 3105-3621 dan seluruh halaman PDF 62-69 dibuka; tanggal "5 Januari 1896", "5 Desember 1896", "12 November 1899", "18 November 1899" dan angka "ƒ 250.000", "245.5", "1.188 Meter" terbaca sama dengan OCR; tidak ditemukan judul tepi maupun catatan kaki. Penanda halaman Bab V mengikuti nomor cetak (hal. 51–57); halaman pembuka bab (hal. 50) tidak bernomor sehingga tidak diberi penanda. Bab V tidak memuat catatan kaki maupun tabel (tidak ada ID catatan kaki bab5-N); angka "57" dan sejenisnya di tengah teks OCR adalah nomor halaman, dan huruf "8.0.W." dibaca B.O.W. Bab VI (sumber baris 3622–4370, Kurun 1893 hingga 1906, hal. 58–68 cetak) juga selesai diterjemahkan dan dibaca ulang terhadap teks OCR; dengan pindaian halaman PDF 72–82 yang dibuka sebagian (hal. 60–68 cetak; halaman PDF 73 adalah potret sisipan "H. F. van Stipriaan Luïscius", halaman PDF 74 kosong, keduanya bukan catatan kaki) untuk angka dan tanggal yang meragukan dalam OCR: "14 Januari 1895" (OCR: "Men"), "3½%" (OCR: "332%y 2 %"), pecahan "10½", "7½", "2½", "12½", "1½", "4½" K.M. (OCR: "10%", dsb.), dan tanggal "19 Desember 1899" pada tabel hal. 66. Pada gerbang verifikasi ulang, halaman PDF 70, 71 (hal. 58, 59), 76 (hal. 62), dan 79 (hal. 65) dibuka: ejaan dikoreksi menjadi "Tjitaroem" (OCR: "Tjitaroerh"), "No 8" pada keputusan 5 Januari 1895 terbaca jelas, dan penanda [hal. 62] dipindahkan ke batas halaman yang benar ("vooral wat laatstgenoemde..."); "Grissee (hoofd)" diterjemahkan "kepala dermaga". Halaman PDF 72-75, 77-78, dan 80-82 hanya dicocokkan dengan OCR selain yang tercatat sebelumnya. Penanda halaman Bab VI mengikuti nomor cetak (hal. 59–68); halaman pembuka bab (hal. 58) tidak bernomor sehingga tidak diberi penanda. Bab VI memuat satu tabel (11 baris, hal. 66) dan tidak memuat catatan kaki (tidak ada ID catatan kaki bab6-N); nama "H. F. van Stipriaan Luïscius" yang terselip di OCR baris 3834 adalah keterangan potret sisipan dan dimuat sebagai keterangan gambar, serta tanda signatur "Korte Geschiedenis der N.I. S. en T. 5" di baris 4186 dihilangkan. Sumber terakhir yang tercakup: baris 4370. Kelanjutan dimulai pada baris 4371 (Bab VII). Bab VII–XII, bagian B, Lampiran I–III, serta daftar isi belum diterjemahkan.
-- **Pengerjaan:** potongan ini diterjemahkan dengan Sonnet (`claude-sonnet-5-5`), lalu diperiksa dan disunting oleh asisten utama.
-- **Penyajian:** halaman judul ganda dan cap perpustakaan dihilangkan; pemenggalan baris OCR dirangkai kembali. Penanda `[hal. 4]` menunjukkan batas halaman cetak yang terbaca. Nama historis dan judul pustaka dipertahankan. Angka OCR `111` pada nomor lampiran dibaca sebagai III.
-- **Batas gambar:** halaman judul menyebut dua peta kecil. Peta (misalnya "Overzichtskaart van de Spoor- en Tramwegen en Lands-automobieldiensten op Java en Madoera" di halaman PDF 10) belum diterjemahkan. Di Bab I terdapat tiga gambar sisipan (foto kelompok "Commissie tot de Vervoermiddelen", potret "W. Poolman", potret "D. Maarschalk"); hanya keterangan gambarnya yang dimuat, dalam kurung siku. Ketiganya bukan catatan kaki. Bab I tidak memuat catatan kaki.
+- **Sumber teks:** `/tmp/book.txt`, 9538 rekaman baris OCR (9537 karakter baris baru dan satu rekaman akhir kosong). Acuan gambar: [pindaian Koninklijke Bibliotheek](https://resolver.kb.nl/resolve?urn=MMKB21:035946000:pdf), 156 halaman PDF. Komentar `Sumber` menandai rentang teks asli; penomoran baris menghitung baris baru, bukan karakter pemisah halaman.
+- **Status: Belum lengkap.** Halaman judul, kata pengantar, Bagian A dan B, serta Bab I–XII sudah diterjemahkan dan diperiksa. Lampiran I–III dan daftar isi masih dalam pengerjaan.
+- **Pengerjaan:** halaman judul, kata pengantar, serta Bab I–XI dikerjakan dengan Sonnet (`claude-sonnet-5-5`) dan diperiksa ulang. Sesudah batas sesi Sonnet tercapai, Bab XII dan kelanjutannya dikerjakan oleh asisten utama beserta pekerja penerjemahan tambahan. Terjemahan mempertahankan isi lengkap, bukan ringkasan.
+- **Pemeriksaan sumber:** seluruh bagian yang selesai telah dibandingkan dengan OCR. Halaman judul dan kata pengantar dicocokkan dengan PDF 1, 5, 7–8. Bab I dicocokkan dengan pindaian hal. 5–20; Bab III–V dengan hal. 34–57. Untuk Bab VI, pemeriksaan terdahulu mencakup PDF 70–71, 76, 79; pemeriksaan lanjutan mencakup PDF 72–75, 77–78, 80–82, termasuk tanggal 14 Januari 1895 dan 19 Desember 1899 serta seluruh 11 baris tabel hal. 66.
+- **Batas pemeriksaan pindaian:** Bab II baru dicocokkan dengan PDF 33–36, 38, 42, 44–45 (hal. 21–24, 26, 30, 32–33); halaman lainnya dibandingkan dengan OCR saja. Untuk Bab VII, PDF 84, 88–91, 94–97 dibuka; hal. 71–73, 76–77, dan 80 belum diperiksa menyeluruh pada pindaian. Bab VIII–XI diperiksa terhadap OCR seluruhnya serta pindaian untuk angka dan tanggal yang meragukan; Bab IX mencakup PDF 108–113, Bab X hal. 95–97, dan Bab XI PDF 118–124. Bab XII dibandingkan dengan kedua halaman sumbernya, PDF 124–125. Jadi, dokumen ini bukan edisi yang setiap karakternya telah diverifikasi terhadap seluruh pindaian.
+- **Angka dan tanggal meragukan:** jumlah obligasi di Inggris pada Bab II tertutup coretan tinta dan tetap ditandai tidak terbaca; angka 2020 obligasi tersisa dapat dibaca. Kesalahan atau pertentangan yang memang tercetak dalam buku tidak diselaraskan diam-diam, misalnya 31 Juni 1921, konsesi Madoera tahun 1921 dengan pembukaan tahun 1913, tahun 1807 pada Bab VIII, dan tanggal-tanggal janggal pada Bab IX–XI. Catatan di tempat terkait membedakan bacaan cetak, OCR yang rusak, serta tahun yang tidak disebutkan.
+- **Penyajian:** halaman judul ganda, cap perpustakaan, judul kepala halaman berulang, serta signatur cetak dihilangkan; pemenggalan baris OCR dirangkai kembali. Nama historis, judul pustaka, angka, dan ƒ dipertahankan. Penanda `[hal. N]` mengikuti nomor cetak yang dapat dipastikan; halaman pembuka bab yang tidak bernomor tidak diberi penanda. Catatan kaki memakai ID unik per bab atau lampiran.
+- **Batas gambar:** kedua peta tidak digambar ulang dan label di dalam petanya tidak diterjemahkan. Keterangan gambar dan daftar peta tetap dimuat. Foto kelompok, potret, dua foto lokomotif, dan foto kereta motor listrik hanya diwakili keterangan gambarnya, bukan reproduksi gambarnya dan bukan catatan kaki. Tahun pada daftar gambar dapat berbeda dengan keterangan di badan buku; perbedaan sumber tidak diselaraskan.
 - **Catatan terjemahan:** pada hal. 10, sumber (terkonfirmasi pindaian) menyebut Duymaer van Twist tidak dapat membagi keberatan pendahulunya "tegen staatsaanleg" (terhadap pembangunan oleh negara); diterjemahkan harfiah. Hal. 5 (awal bab, tanpa nomor tercetak) tidak diberi penanda.
 
 ---
+
+<!-- Sumber: /tmp/book.txt:1-176 -->
 
 ## Halaman judul
 
@@ -820,3 +825,461 @@ Terakhir di sini disebutkan bahwa Madoera Stoomtram Maatschappij mengambil alih 
 [hal. 68]
 
 Madoera-Stoomtram Maatschappij menyelenggarakan lalu lintas kapal antara Oedjong dan Kamal serta antara Panaroekan dan Kalianget.
+
+<!-- Sumber: /tmp/book.txt:4371-5217 -->
+
+## Bab VII. Kurun 1906 hingga Sekarang
+
+Bila, seperti pada bab-bab sebelumnya, uraian dimulai dengan sejarah Staatsspoorwegen, maka dalam pembahasan kronologis pertama-tama patut disebut fakta bahwa, demi pengangkutan gula dari pabrik Pandji, dilakukan perpanjangan lintas samping kecil Soemberkolak-Sitoebondo sampai Pandji (3 K.M.), setelah itu eksploitasi seluruh lintas kecil itu berlangsung sebagai trem sepur normal. Pembentuk undang-undang tidak diajak berunding dalam hal ini, sebab Gubernur Jenderal (Landvoogd), dengan surat Sekretaris Pemerintah Pertama (1en Gouvernements Secretaris) tanggal 20 September 1907 No 2574, telah memerintahkan pembangunannya, yang sudah selesai pada 1 Mei 1908.
+
+Lebih penting ialah pembangunan mata rantai yang hilang dalam hubungan sepanjang Pantai Utara. Yang dimaksud ialah lintas dari Tjikampek ke Cheribon. Setelah berdasarkan undang-undang tanggal 14 Juni 1909 (Ind. Stbl. No 477) diputuskan untuk membangunnya, lintas yang panjangnya 137 K.M. itu mulai dieksploitasi pada 3 Juni 1912. Jauh sebelum lintas itu rampung, dana untuk sebuah lintas cabang Djatibarang-Indramajoe sepanjang 19 K.M. telah disetujui; trem sepur normal ini rampung pada 15 September 1912.
+
+Salah satu akibat dari gagasan untuk mengalirkan lalu lintas sehari antara Batavia dan Soerabaia melalui lintas Tjikampek-Cheribon ialah bahwa pembangunan lintas dari Cheribon ke Kroja dengan sendirinya mendesak untuk dibangun. Undang-undang tanggal 31 Desember 1912 (Ind. Stbl. 1913 No 32) merupakan akibat dari upaya ini; perlawanan terhadapnya begitu rupa sehingga sebuah komisi beberapa ahli harus menerangi persoalan rentabilitasnya. Pada 1 Juli 1916 ruas lintas Cheribon-Margasari sepanjang 75 K.M. dan ruas Kroja-Patoegoeran sepanjang 51 K.M. rampung. Pada 1 Januari 1917 menyusul ruas penghubung Patoegoeran-Margasari (32 K.M.). Akan tetapi, mula-mula karena penghematan dan kemudian karena perlawanan Volksraad, hubungan sehari itu hingga kini belum terwujud, dan bermalamnya para penumpang antara Batavia dan Soerabaia di Bandoeng atau di Djokja
+
+[hal. 70]
+
+masih diperlukan. Sejauh itu, dengan pembangunan lintas ini tidak tercapai apa yang dibayangkan orang darinya.
+
+Akibat dari keinginan untuk dapat menguasai keadaan perkeretaapian di Jawa Barat secara tuntas, antara lain karena kebutuhan mendesak untuk memperbaiki hubungan-hubungan di Batavia, ialah bahwa perundingan dengan Nederlandsch-Indische Spoorweg Maatschappij tentang penjualan lintas Buitenzorg-Batavia dimulai kembali. Menteri de Waal Malefijt mengajukan rancangan undang-undang untuk itu, yang menetapkan bahwa N.I.S.M. akan menerima ƒ 10.600.000 untuk lintasnya; pada pemungutan suara tanggal 18 Maret 1910 suara di Tweede Kamer (Majelis Rendah) Staten-Generaal berimbang, dan pada 11 Mei d.o.v. [singkatan dalam sumber, tidak dijabarkan] usul itu ditolak dengan 44 suara lawan 37.
+
+Perundingan baru, yang di dalamnya N.I.S.M. menurunkan harga jual menjadi 8½ juta gulden, sebagai imbalan atas ketentuan-ketentuan konsesi yang lebih menguntungkan bagi trem-tremnya (hal itu akan dibahas di bawah pada bagian N.I.S.M.), mengakibatkan bahwa sebuah usul undang-undang baru untuk pembelian dapat diajukan. Rancangan ini diterima di Staten-Generaal, sehingga undang-undang tanggal 20 Juli 1913 (Ind. Stbl. No 469) akhirnya menjadikan lintas itu milik Negara.
+
+Dengan selesainya pembangunan kereta api induk di Jawa, perlu disebutkan bahwa diadakan penyelidikan yang luas mengenai kemungkinan membangun lintas pengumpan (voedingslijnen). Sebelum memberikan tinjauan atas hasil penyelidikan ini, perhatian lebih dahulu ditujukan pada pembangunan lintas Bandjar-Parigi, lintas yang dimaksudkan untuk membuka Preanger Tenggara dan karena itu sepenuhnya berciri apa yang disebut lintas perintis. Dana yang berasal dari apa yang disebut "dana bantuan (hulpverschaffings-fondsen)" disetujui dengan undang-undang tanggal 18 Juli 1911 No 457. Pembangunannya menjadi riwayat penderitaan yang panjang dan kekecewaan besar. Ruas Bandjar-Kalipoetjang sepanjang 43 K.M., yang dieksploitasi sebagai trem sepur normal, baru pada 31 Juni 1921 [angka/tanggal meragukan dalam OCR: "31en Juni 1921"; tercetak demikian pula pada pindaian hal. 70, jadi bukan galat OCR, tetapi 31 Juni tidak ada dalam kalender (Juni hanya 30 hari); tidak dikoreksi] diperpanjang dengan ruas Kalipoetjang sampai Tjidjoelang sepanjang 39 K.M. Undang-undang tanggal 6 Juni 1919 Stbl. No 308 telah menunjuk Tjidjoelang sebagai titik yang lebih cocok daripada Parigi sebagai ujung lintas trem sepur normal itu.
+
+Sebuah lintas kecil yang istimewa ialah yang dari Tjilegon ke Merak (keputusan tanggal 21 Juni 1912 No 17). Pembangunannya, yang rampung pada 1 Desember
+
+[hal. 71]
+
+1914, berkaitan dengan pembangunan kereta api Sumatra Selatan, yang akan dibahas dalam bagian kedua tinjauan sejarah ini, tepatnya di Bab XI. Lintas kecil ini hanya sepanjang 10 K.M.
+
+Satu jenis lintas trem istimewa yang lahir dalam kurun ini ialah yang berlebar sepur 0.6 M.
+
+Dengan surat Sekretaris Pemerintah Pertama tanggal 19 Mei 1908 No 1427, Pemerintah memberi wewenang kepada Inspektur Kepala S.S. untuk, sebagian dengan materiel yang menjadi tersedia, membangun sebuah lintas kecil dari Tjikampek ke Tjilamaja sepanjang 28 K.M. Pada 1 Juli 1909 pekerjaan itu rampung. Hasilnya sedemikian rupa sehingga dengan undang-undang tanggal 18 Juli 1911 (Ind. Stbl. No 459) diperintahkan pembangunan dua lintas kecil sejenis lagi, yaitu yang dari Tjikampek ke Wadas dan, di Oosthoek (Ujung Timur), dari Rambipoedji ke Poeger dengan lintas cabang. Lintas yang disebut terakhir dengan lintas cabang dari Balong ke Amboeloe itu panjangnya 40 K.M.; ia rampung pada 3 Mei 1913, setelah lintas kecil pertama sepanjang 16 K.M. mulai dieksploitasi pada 15 Juni 1912. Dengan undang-undang tanggal 4 Januari 1916 Ind. Stbl. No 36, selanjutnya disetujui dana yang diperlukan untuk pembangunan lintas Krawang-Rengasdengklok dan Krawang-Lemahabang. Lintas pertama sepanjang 21 K.M. rampung 15 Juni 1919; sebagai ganti lintas kedua dibangun sebuah hubungan Lamaran-Wadas sepanjang 15 K.M., yang dibuka untuk lalu lintas umum pada 9 Februari 1920. Harapan semula bahwa tipe sepur sempit ini akan menjadi sarana angkutan yang tepat di daerah-daerah yang lalu lintasnya belum sepenuhnya matang tidak terwujud. Kereta api dan trem swasta tidak mengikuti contoh itu, dan lintas Rambipoedji-Poeger agaknya harus dibangun ulang seluruhnya atau sebagian menjadi sepur normal, kini setelah lalu lintas meningkat dan sambungan dengan trem sepur normal Loemadjang-Kentjong-Poeger (lihat di bawah) akan diperoleh.
+
+Dari lintas-lintas pengumpan sesungguhnya yang terwujud dalam kurun ini, kita sebut pertama-tama trem sepur normal Tasikmalaja-Singaparna (undang-undang tanggal 31 Desember 1909 Ind. Stbl. 1910 No 198); lintas ini, sepanjang 17 K.M., mulai dieksploitasi pada 1 Juni 1911.
+
+Krian-Gempolkerep ialah sebuah lintas trem Lintas Timur, yang diperintahkan dengan undang-undang tanggal 15 Juli 1910, Ind. Stbl. No 477. Pada 1 Mei 1912
+
+[hal. 72]
+
+lintas sepanjang 26 K.M. itu mulai dieksploitasi. Lintas itu diperpanjang ketika pembentuk undang-undang menyetujui usul untuk meneruskannya sampai Kertosono (undang-undang tanggal 1 Juni 1918 Ind. Stbl. No 345); kemudian diputuskan bahwa ia hanya akan diteruskan sampai Plosso pada bekas Babat-Djombang Stoomtram. Trem ini, sebagai akibat undang-undang tanggal 29 Juli 1916, Ind. Stbl. No 646, telah diambil alih oleh Negara seharga ƒ 2.000.000, karena orang melihat padanya ancaman terus-menerus berupa pengurasan angkutan dari Lintas Timur.
+
+Ruas sepanjang 20 K.M. sampai Plosso dibuka untuk lalu lintas pada 1 September 1921. Agar memperoleh sambungan langsung ke stasiun S.S. di Djombang, bagian trem Kediri di sebelah utara jalan kereta api dibeli dari K.S.M. pada September 1918 seharga ƒ 100.000; penyerahannya berlangsung pada 1 November 1918.
+
+Undang-undang tanggal 4 Januari 1916 Ind. Stbl. No 36 menjadi dasar pembangunan lintas Rogodjampi-Kalisetail, yang semula dimaksudkan sebagai sepur sempit, tetapi akhirnya dibangun dengan sepur normal dari Rogodjampi sampai Bentjoeloek, dan lintas Rantjaekek ke Djatinangor, langkah pertama ke arah Lintas Preanger menuju Cheribon. Dari lintas yang disebut pertama di Oosthoek, ruas Rogodjampi-Srono sepanjang 13 K.M. mulai dieksploitasi sebagai trem pada 26 Oktober 1921, pada 1 November 1922 menyusul ruas Srono-Bentjoeloek sepanjang 5 K.M.; dari lintas yang lain, yang ke Djatinangor, ruas sampai Tandjongsari sepanjang 12 K.M. rampung pada 13 Februari 1921, setelah dengan undang-undang tanggal 23 Februari 1918 Ind. Stbl. No 181 ditetapkan bahwa lintas dari Djatinangor melalui Tandjongsari akan diteruskan sampai Tjitali. Akibat keadaan zaman, untuk sementara dibatalkan pembangunan ruas Tandjoengsari ke Tjitali.
+
+Dari lintas trem Bandoeng-Koppo (undang-undang tanggal 1 Juni 1918, Ind. Stbl. No 345), lintas Bandoeng-Soreang bersama lintas penghubung Kiaratjondong-Kareës, seluruhnya sepanjang 29 K.M., mulai dieksploitasi pada 13 Februari 1921. Lintas samping Dajeuhkolot-Madjalaja sepanjang 18 K.M. dibuka untuk lalu lintas umum pada 3 Maret 1922; pembangunan lintas terakhir ini telah diperintahkan dengan undang-undang tanggal 28 Februari 1920, Ind. Stbl. No 150.
+
+Pada 1919 dengan undang-undang tanggal 6 Juni, Ind. Stbl. No 312, pembangunan lintas dari Toeloeng Agoeng ke Toegoe disetujui. Ruas pertama,
+
+[hal. 73]
+
+sepanjang 14 K.M. sampai Tjampoerdarat, rampung pada 15 Juli 1921, ruas perpanjangan sepanjang 25 K.M. sampai Trenggalek pada 1 Juli 1922, ruas sepanjang 9 K.M. sampai ujung lintas di Toegoe pada 3 Januari 1923.
+
+Dua perpanjangan lintas trem Ponorogo, yaitu dari Soemoroto sampai Badegan dan dari Balong ke Slahoeng, disetujui dengan undang-undang tanggal 22 Desember 1919 Ind. Stbl. 1919 No 53; lintas-lintas sepanjang 10 dan 9 K.M. itu mulai dieksploitasi pada 1 Agustus 1922.
+
+Dengan undang-undang tanggal 28 Februari 1920 Ind. Stbl. No 150, selain lintas samping Tjiteureup (Dajeuhkolot)-Madjalaja yang dibahas di atas, trem-trem Djatibarang-Karangampel dan Djatibarang-Eretan pun dipertimbangkan untuk dibangun. Ruas sampai Karangampel sepanjang 18 K.M. dibuka untuk lalu lintas pada 1 Mei 1926; pembangunan lintas yang terakhir belum dimulai.
+
+Dari empat trem yang pembangunannya diperintahkan dengan undang-undang tanggal 18 Maret 1921, Ind. Stbl. No 204, lintas Tjitali-Soemedang dan lintas Bandjaran-Pengalengan untuk sementara tidak dibangun karena pertimbangan penghematan. Lintas Koppo-Tjiwedej, perpanjangan lintas trem Preanger dekat Bandoeng, sepanjang 12 K.M., rampung pada 17 Juni 1924. Perpanjangan lintas cabang ke Garoet, yaitu sampai Tjikadjang, pada awal 1928 masih dalam pelaksanaan.
+
+Sebagai akibat pekerjaan untuk memperbaiki keadaan perkeretaapian di sekitar Batavia, ruas Tanah Abang-Manggarai (6 K.M.) mulai dieksploitasi pada 1 Agustus 1922 dan ruas Angkee-Kampoeng Bandan (4 K.M.) pada 12 September 1923.
+
+Terakhir perlu disebutkan bahwa pada 1926 pembentuk undang-undang menyetujui usul-usul untuk membangun sebuah trem dari Loemadjang, sebuah stasiun pada lintas trem S.S. Klakah-Pasirian, ke Kentjong dan lintas Poeger, agar dapat melayani angkutan beberapa pabrik gula yang baru didirikan di Zuid-Tanggoelsche (undang-undang tanggal 28 Juni 1926 Ind. Stbl. No 305). Pada awal 1928, sejauh diketahui di Belanda, lintas sepanjang 42 K.M. ini belum dieksploitasi; hanya diketahui bahwa pada September 1927 stasiun Balong dipilih sebagai titik sambungan dengan lintas Poeger. Pembangunan trem ini membuat orang mempertimbangkan gagasan untuk juga membangun ulang lintas sambungan Rambipoedji-Poeger dari trem sepur sempit menjadi trem sepur normal.
+
+[hal. 74]
+
+Satu perubahan penting lagi ialah bahwa pada hari peringatan ke-50 pengumuman undang-undang pembangunan lintas negara pertama, pada lintas dari Tandjong Priok ke Meester Cornelis diberlakukan traksi listrik. Secara bertahap hal itu dilakukan juga pada lintas-lintas kota lainnya. Saat ini orang sedang mengelektrifikasi lintas Batavia-Buitenzorg.
+
+Sebelum beralih ke sejarah kereta api swasta dalam kurun sesudah 1906, perlu lebih dahulu ditunjukkan bahwa pada 1909 dinas Kereta Api dan Trem Negara (Staatsspoor- en Tramwegen) beralih ke Departemen Perusahaan Pemerintah (Departement van Gouvernementsbedrijven) yang didirikan pada 1 Januari 1908, tanpa hal itu menimbulkan perubahan pada jalannya perusahaan. Namun pada pertengahan 1917 pimpinan S.S. dibebaskan dari Pengawasan atas Dinas Kereta Api dan Trem (Toezicht op de Spoor- en Tramwegdiensten) (terhadap penggabungan apa yang disebut "pengawasan" dengan pimpinan S.S. itu bertahun-tahun diprotes di dalam dan di luar lembaga perwakilan rakyat), dan dari biro "Tenaga Air" (Waterkrachten), yang sebagai "Dinas Tenaga Air dan Listrik" (Dienst voor Waterkracht en Electriciteit) yang berdiri sendiri beralih ke Departemen Perusahaan Pemerintah (juga pada pertengahan 1917); tetapi urusan-urusan yang kian bertambah dari jaringan yang terus meluas, penambahan kereta api di Pantai Barat Sumatra dan Atjehtram, yang hingga kini langsung berada di bawah Departemen Perusahaan Pemerintah (dahulu B.O.W.) dan Departemen Perang, serta dinas otomobil negara (landsautomobieldiensten) di Sumatra dan Jawa, membuat reorganisasi diinginkan pada 1917, yang di dalamnya antara lain wilayah-wilayah eksploitasi (exploitatiekringen) jaringan Jawa dihapuskan. Hal ini masih terjadi di bawah pengelolaan Inspektur Kepala M.H. Damme, yang pada waktu mengundurkan diri pada 1918 digantikan oleh sebuah pimpinan tiga orang yang terdiri atas Tuan-tuan F.E. van Hennekeler, W.F. Staargaard, dan F.B.H. Asselbergs. Sesudah 1921 orang kembali ke pimpinan satu orang (inspektur kepala J.C.F. van Sandick), sedangkan setelah ia wafat inspektur kepala W.F. Staargaard memasukkan kembali dua wilayah eksploitasi Lintas Timur dan Lintas Barat ke dalam perusahaan Jawa.
+
+Agar uraian tidak menjadi tidak lengkap, tidak boleh dilewatkan untuk menarik perhatian pada dua perjanjian dengan N.I.S.M. yang sangat besar pengaruhnya atas lalu lintas kereta api, yaitu terwujudnya sebuah perjanjian (19 Juni-1 Juli 1925) yang di dalamnya
+
+[Gambar sisipan antara hal. 74 dan 75 (bukan catatan kaki): dua foto lokomotif. Keterangan gambar atas: "Oude berglijn-locomotief (1874)." (Lokomotif lintas gunung lama (1874)). Keterangan gambar bawah: "Moderne berglijn-locomotief (1924)." (Lokomotif lintas gunung modern (1924)).]
+
+[hal. 75]
+
+N.I.S.M. mengikatkan diri untuk membangun sebuah hubungan terpisah (vrijliggende verbinding) untuk sepur normal antara Solo dan Djokja dan menyewakannya kepada Pemerintah, dan sebuah perjanjian yang diperbaiki tentang pembagian angkutan yang berlaku mulai 1 April 1926, yang dimaksudkan untuk mengakhiri persaingan angkutan antara S.S. dan N.I.S.M. yang kian tajam. Pada paruh kedua 1906 telah dibuat suatu perjanjian antara kedua pihak yang mengatur angkutan barang yang bersaing dari dan ke Soerabaia; perjanjian itu dapat dipandang sebagai pendahulu perjanjian 1926.
+
+Perundang-undangan kereta api dan trem yang sama sekali baru, setelah persiapan bertahun-tahun, muncul dalam lembaran negara (staatsblad) pada awal 1927. Perundang-undangan yang ada membagi jalan besi menjadi kereta api (spoorwegen) yang dapat dilalui dengan kecepatan 60 K.M. per jam dan lebih, kereta api sekunder (secundaire spoorwegen), trem (tramwegen) yang dimaksudkan untuk dilalui dengan kecepatan 30 K.M. (dalam hal khusus 45 K.M.), dan akhirnya trem kota (stadstramwegen), yang dimaksudkan untuk melayani lalu lintas di satu atau beberapa kota praja yang berbatasan. Perundang-undangan baru berlaku atas kereta api induk, yang disebut kereta api kelas satu, atas kereta api kelas dua, yang mencakup kereta api sekunder dan trem, atas trem pedesaan (landelijke tramwegen; yakni jalur berkonstruksi ringan dan dengan peraturan operasional sederhana), dan atas trem kota, sejauh pemerintah pusat berkepentingan dengannya.
+
+Di atas telah disebutkan upaya Negara yang gagal untuk membeli lintas Buitenzorg-Batavia pada 1910 seharga ƒ 10.600.000. Segera setelah usul undang-undang ditolak di Tweede Kamer, perundingan dimulai kembali untuk memperoleh harga beli yang ditetapkan sebesar ƒ 8.500.000. Sebagai kompensasi atas jumlah yang lebih rendah yang akan diterima N.I.S.M. dalam bentuk uang, syarat-syarat konsesi trem-trem yang dieksploitasi perseroan itu akan ditinjau kembali, dan tanggal kemungkinan pengambilalihan paksa (naasting) akan ditunda sampai 31 Desember 1935. Pada saat itu beberapa permohonan N.I.S.M. berada pada Pemerintah, yaitu 1e. untuk perubahan syarat-syarat konsesi lintas trem Solo-Bojolali yang dibeli pada 1905 dari Solosche Tramweg Maatschappij, 2e. untuk memperoleh kon-
+
+[hal. 76]
+
+sesi bagi lintas-lintas Bodjonegoro-Lasem, Srandakan-Sewoe Galoer, Bantool-Karang Asem dan dari Solo ke Wonogiri, dan 3e. konsesi untuk sebuah lintas trem sepur normal dari Semarang melalui Broemboeng ke Gambringan. Selama perundingan, permohonan-permohonan ini mengalami beberapa perubahan, sehingga permohonan itu akhirnya berbunyi: menyetujui syarat-syarat konsesi baru untuk lintas-lintas yang telah dibangun dan, dengan syarat-syarat yang sama, memberikan konsesi untuk:
+
+A. perpanjangan lintas Djokja-Brosot sampai Sewoegaloer;
+B. sebuah lintas cabang dari lintas Djokja-Brosot melalui Passar Gedeh ke lintas kereta api Djokja-Solo;
+C. lintas-lintas cabang berikut dari lintas Goendih-Soerabaia di Rembang:
+   1e. dari Bodjonegoro melalui Pontjo ke Djatirogo;
+   2e. dari Babat melalui Ngidon ke Djenoe;
+   3e. dari Pontjo melalui Rengel ke Ngidon;
+   4e. dari Soerabaia ke Grissee;
+D. perpanjangan trem uap Solo-Bojolali, yang berjalan dari Solo melalui Wonogiri ke Kakap;
+E. sebuah lintas yang berjalan dari stasiun Tawang di Semarang melalui Broemboeng ke Gambringan pada lintas Goendih-Soerabaia.
+
+Dengan keputusan tanggal 28 Oktober 1913 No 13, syarat-syarat konsesi yang ada diubah dan yang baru disetujui.
+
+Dalam perjalanan tahun-tahun, pada sebagian hubungan ini terjadi perubahan; demikianlah pada 1923 diberikan pembebasan dari kewajiban membangun lintas cabang Passar Gedeh-Magoewo, sedangkan ditetapkan bahwa sebagai ganti Djenoe yang disebut pada C butir 2, tempat Merak-Oerak akan menjadi ujung lintas. Konsesi Soerabaia-Grissee juga diubah menjadi Kandangan-Grissee, dan diberikan pembebasan dari pembangunan lintas dari Batoeretno ke Kakap pada lintas Wonogiri. Konsesi Pontjo-Ngidon dikembalikan pada 1926; sebaliknya lintas-lintas lainnya terwujud antara 1919 dan 1924.
+
+Mengenai perjanjian pembangunan hubungan terpisah antara Solo dan Djokja dan perjanjian tentang pembagian angkutan antara N.I.S.M. dan S.S., telah dibicarakan di atas.
+
+Samarang-Joana Stoomtram Maatschappij pada awal 1910 meminta konsesi untuk sebuah lintas Djatirogo-Bodjonegoro. Sehubungan dengan rencana-rencana yang oleh residen Rembang, Tuan J.L. Gonggrijp,
+
+[hal. 77]
+
+dipropagandakan untuk pendirian pabrik gula, pembangunan trem, dan sebuah tempat pemuatan ke kapal, N.I.S.M. pun segera sesudahnya meminta konsesi untuk pembangunan trem di daerah Rembang. Perundingan timbal balik yang dipimpin Direktur Perusahaan Pemerintah, Tuan H.J.E. Wenckebach, disusul pembicaraan di Batavia, mengakibatkan bahwa S.J.S. pada 1911 meminta konsesi untuk lintas Lasem-Ngandang-Djatirogo, yang diberikan dengan keputusan tanggal 17 Juli 1912 No 40.
+
+N.I.S.M. kemudian mengubah trase-trase yang diberikan kepadanya menjadi trase-trase yang pada 1913 (lihat di atas pada C.) diperoleh dengan keputusan tanggal 28 Oktober 1913 No 13.
+
+Dari lintas Djatirogo-Lasem milik S.J.S., ruas Lasem-Pamotan (10 K.M.) mulai dieksploitasi pada 1 Juni 1914, ruas Pamotan-Djatirogo sepanjang 24 K.M. pada 20 Februari 1919. Perang besar telah berpengaruh sangat menghambat.
+
+Di sini tempatnya menyebutkan hasil perundingan antara kota praja Semarang dan S.J.S. mengenai lintas-lintas kota milik perseroan itu. Bertahun-tahun perundingan ini berlarut-larut, hingga pada 1921 tercapai kesepakatan. Pada 1 Januari lintas-lintas kota beralih menjadi milik kota praja; S.J.S. untuk sementara tetap mengeksploitasi jaringan itu, sambil membayar uang sewa kepada kota praja.
+
+Perlu disebut pula bahwa "Komisi Penyelidikan Keadaan Kereta Api dan Trem di dalam dan di sekitar Semarang" ("Commissie tot Onderzoek der Spoor- en Tramwegtoestanden in en om Semarang") menyelesaikan laporannya pada 1924 dan menerbitkannya dalam cetakan pada 1925.
+
+Semarang-Cheribon Stoomtram Maatschappij pada 23 Maret 1909 menyampaikan sebuah nota kepada Pemerintah Hindia, yang menunjukkan bahwa ia hendak membuat lintas induk dapat dilalui dengan kecepatan lebih tinggi, sedemikian rupa sehingga jarak Batavia-Semarang dapat ditempuh dalam satu hari. Hal ini akan dilakukan antara lain dengan membangun ulang badan jalan dan membuat dua pemendekan lintas (afkortingen). Sebagai akibat keputusan agar hubungan Cheribon-Kroja dibangun oleh Negara dan karena beberapa kesalahpahaman yang timbul, baru pada 1911 S.C.S. mengajukan permintaan untuk pemendekan Kaliwoengoe-Pegandon. Setelah diberikan dengan keputusan tanggal 12 Juli 1911 No 5, lintas Kaliwoengoe-Kalibodri sepanjang 12 K.M. rampung pada 1 Januari 1914. Pemendekan Bedilan-Kantji (28 K.M.) diberikan dengan keputusan tanggal 1 Mei 1912 No 1; pada 1914 lintas itu disebut Losari-Moendoe.
+
+[hal. 78]
+
+Lintas itu rampung pada 1 Mei 1915. Akibat perbaikan-perbaikan jalan ini ialah bahwa pada 1 Januari 1914 selesainya hubungan sehari antara Batavia dan Semarang dapat dirayakan dengan meriah.
+
+Upaya S.C.S. pada awal 1913 untuk mengubah konsesi tremnya menjadi konsesi kereta api tidak berhasil. Perundingan yang berlarut-larut menyebabkan baru pada Oktober 1918 S.C.S. diberi tahu bahwa terdapat keberatan prinsip terhadap pengubahan konsesi trem menjadi konsesi untuk kereta api. Sekaligus ditanyakan apakah S.C.S. bersedia ikut bekerja sama untuk membuat suatu pengaturan yang pada dasarnya berupa sewa-beli (huurkoop) lintas-lintasnya oleh S.S. S.C.S. pada prinsipnya tidak menunjukkan keengganan terhadap hal itu. Orang belum sampai pada penyelesaian atas banyak kesulitan itu.
+
+Perlu disebutkan pula bahwa S.C.S. memperoleh sambungan lintas Tegal-Balapoelang dengan lintas Cheribon-Kroja milik S.S. melalui pemberian konsesi Balapoelang-Margasari (Proepoek) dengan keputusan tanggal 12 Juli 1911 No 5. Pada 1 Mei 1918 lintas sepanjang 15 K.M. itu rampung.
+
+Pembangunan konsesi yang diberikan dengan keputusan tanggal 30 Agustus 1913 No 42 untuk lintas samping Pekalongan-Kedoengwoeni-Wonopringgo (12 K.M.) rampung pada 7 Februari dan 1 Desember 1916.
+
+Terakhir perlu disebutkan bahwa lintas samping dari lintas Cheribon-Kadipaten, yakni hubungan Djamblang-Goenoeng Giwoer, dikonsesikan dengan keputusan tanggal 28 April 1920 No 46; pada 1 Juli 1922 lintas Klangenan-Goenoeng Giwoer sepanjang 5 K.M. mulai dieksploitasi.
+
+Serajoedal Stoomtram Maatschappij memperluas kegiatannya dengan menerima dan melaksanakan konsesi yang diberikan kepadanya dengan keputusan tanggal 22 Juli 1912 No 12 dan menyangkut perpanjangan sepanjang 23 K.M. dari Bandjarnegara sampai Wonosobo. Ruas pertama sampai Selokromo mulai dieksploitasi pada 1 Mei 1916, ruas kedua (14 K.M.) pada 7 Juni 1917.
+
+Oost-Java Stoomtram Maatschappij hanya mengalami perluasan kecil dengan rampungnya, pada 1 April 1909, lintas kecil Modjokerto-Wates sepanjang 8 K.M., yang untuknya ia telah memperoleh izin resmi dengan keputusan tanggal 25 Mei 1909 No 37.
+
+Jaringan kota O.J.S. mengalami perubahan penting. Pertama, dengan keputusan tanggal 25 November 1916 No 56, O.J.S. memperoleh konsesi untuk lintas trem uap sepanjang 16 K.M. dari Regent-
+
+[Gambar sisipan antara hal. 78 dan 79 (bukan catatan kaki): foto sebuah kereta motor listrik di stasiun. Keterangan gambar: "S. S Motorrijtuig (1925)." (Kendaraan bermotor S.S. (1925)).]
+
+[hal. 79]
+
+straat ke Tandjong Perak, pelabuhan Soerabaia, yang rampung pada 1 Agustus 1920. Menurut keputusan yang sama, traksi listrik boleh diterapkan; hal itu terjadi pada pembukaan apa yang disebut lintas III.
+
+Selain itu, keputusan yang sama memberikan konsesi untuk sejumlah lintas trem listrik, yang mulai dieksploitasi pada 15 Mei, 12 Juli 1923, dan 11 Februari 1924. Trem uap antara Wonokromo dan Stadstuin dihapuskan pada 15 Mei 1923.
+
+Kediri Stoomtram Maatschappij, setelah rampungnya lintas Brengolo-Plosso-Klaten, tidak memperluas jaringannya.
+
+Malang Stoomtram Maatschappij meminta dan memperoleh, dengan keputusan tanggal 13 Agustus 1908 No 2, konsesi untuk sebuah lintas cabang ke Toeren (1 K.M.), yang selesai pada 25 September 1908.
+
+Pasoeroean Stoomtram Maatschappij memperoleh, dengan keputusan tanggal 19 Desember 1910 No 2, konsesi untuk sebuah lintas samping di tepi kiri Sungai Gembong dan, dengan keputusan tanggal 17 Juni 1911 No 19, untuk sebuah lintas samping dari Waroengdowo ke Ngempit. Lintas-lintas ini, masing-masing sepanjang 3 dan 5 K.M., mulai dieksploitasi pada 27 Maret dan 1 Desember 1912.
+
+Probolinggo Stoomtram Maatschappij membangun lintas Oemboel-Soemberkarang dan Probolinggo-Oemboel. Lintas-lintas sepanjang 3 K.M. ini dibuka untuk lalu lintas barang pada 6 Agustus 1912; konsesi telah diberikan dengan keputusan tanggal 25 Maret 1909 No 4, dan 11 April 1912 No 5.
+
+Madoera Stoomtram Maatschappij menerima, dengan keputusan tanggal 17 Januari 1921 No 11, konsesi untuk lintas Kamal-Kwanjar sepanjang 16 K.M., yang dapat dibuka pada 1 September 1913. [angka/tanggal meragukan dalam OCR: "17en Januari 1921 No 11" dan "1 September 1913"; keduanya terbaca sama pada pindaian hal. 79, sehingga selisihnya (konsesi 1921, pembukaan 1913) berasal dari buku asli; bagian Madoera Stoomtram di Bab VI melaporkan lintas Kamal-Bangkalan sudah beroperasi sejak 1898; tidak dikoreksi]
+
+Mengenai trem-trem kota di Batavia, perlu disebutkan bahwa Nederlandsch-Indische Tramweg Maatschappij, dengan keputusan tanggal 28 April 1911 No 1 dan 12 Mei 1914 No 7, memperoleh konsesi untuk penggandaan jalur Kramat-Meester Cornelis. Ruas pertama sampai apa yang disebut Driesprong rampung pada 17 Juni 1913, ruas kedua sampai Kampoeng Malajoe rampung dalam tahun 1915.
+
+Batavia Electrische Tram Maatschappij memperluas konsesinya pada 1909 (keputusan tanggal 28 Juli 1909 No 1). Dengan itu ia memperoleh izin membangun sebuah lintas dari Koningsplein Noord-Willemslaan-Cipayersweg dan sebuah lagi dari Koningsplein Oost ke Menteng. Dengan keputusan tanggal 7 April 1912 No 13, dan tanggal 20 September 1913 No 25,
+
+[hal. 80]
+
+dikonsesikan sebuah arah yang diubah, sebagian dengan jalur ganda, sedemikian rupa sehingga lintas yang disebut pertama, alih-alih menyusuri sisi selatan Waterlooplein dan Cipayersweg, menyusuri sisi utara melalui Vrijmetselaarsweg ke Goenoengsari. Lintas ke Menteng (3 K.M.) mulai dieksploitasi pada 16 Oktober 1912, yang lain pada 2 Januari 1913.
+
+Rencana elektrifikasi Nederlandsch-Indische Tramweg Maatschappij, yang telah dimulai pada Maret 1911, tidak menghasilkan apa-apa; demikian pula upaya kota praja Batavia untuk membeli lintas itu. Kota praja juga tidak memperoleh lintas-lintas Batavia Electrische Tram Maatschappij. Belakangan ini tampaknya orang mengarah pada pendirian apa yang disebut perusahaan campuran (gemengd bedrijf), yang di dalamnya kota praja dan kedua perseroan trem akan ikut serta.
+
+Perlu disebut pula bahwa dengan keputusan tanggal 3 Mei 1917 No 19, sebuah izin diberikan kepada Landbouw Maatschappij "Madjenang" untuk membangun dan memakai sebuah lintas trem antara Madjenang dan halte S.S. Meloewoeng pada Lintas Barat. Izin ini dicabut dengan keputusan tanggal 1 Februari 1925 No 64, karena dinas dihentikan dan jalur dibongkar.
+
+# B. Kereta Api dan Trem di Daerah-Daerah Luar Jawa (Buitengewesten)
+
+## Bab VIII. Jalan Kereta Api di Pantai Barat Sumatra
+
+<!-- Sumber: /tmp/book.txt:5218-5703 -->
+
+Pada tahun 1870, keadaan sarana angkutan di Pantai Barat Sumatra yang tidak memadai memunculkan suara-suara yang menganjurkan pembangunan jalan kereta api di sana. Penemuan ladang batu bara di Padangsche Bovenlanden, di hulu Sungai Ombilin, sekitar masa itu oleh insinyur pertambangan W.H. de Greve, membuat persoalan itu semakin mendesak dan memberi dukungan kuat kepada rencana-rencana samar yang sudah ada. Tuan de Greve memang telah dengan hangat menganjurkan pembangunan sebuah jalan kereta api dari Pantai Timur ke Pantai Barat, yang memotong daerah ladang-ladang batu bara. Pada anggaran belanja untuk tahun 1873, sebagai akibat desakan yang dilakukan, diminta dana untuk melakukan pengukuran bagi kemungkinan pembangunan jalan kereta api.
+
+Setelah dana itu disetujui oleh pembentuk undang-undang anggaran, tindakan pertama Pemerintah ialah menempatkan, dengan Koninklijk Besluit tanggal 10 Januari 1873 No 18 dan 17 Februari 1873 No 24, sejumlah personel pada Gubernur Jenderal, yang terdiri atas kepala pengukuran, Tuan J.L. Cluysenaer, bekas insinyur pada pembangunan Staatsspoorwegen di Nederland, serta 5 insinyur dan 7 pengawas; seorang pengawas kepala, beserta juru gambar dan juru tulis yang diperlukan, akan diangkat kemudian di Hindia. Tugas yang diterima Tuan Cluysenaer pada saat mulai bekerja (keputusan tanggal 9 Mei 1873 No 42) ialah: „melakukan suatu penelitian mengenai kesempatan terbaik untuk membangun jalan kereta api di Sumatra, baik untuk memperbaiki perangkutan di Gouvernement Pantai Barat Sumatra pada umumnya, maupun untuk pengangkutan batu bara dari Padangsche Bovenlanden ke tempat-tempat di pesisir pada khususnya”.
+
+Tuan Cluysenaer menyelesaikan pengukurannya untuk sebuah jalan kereta api antara ladang batu bara dan Pantai Barat Sumatra pada 1875.
+
+[hal. 82]
+
+Pada 23 September tahun itu ia menyerahkan kepada Pemerintah laporannya yang luas, yang pada 1876 diterbitkan dalam bentuk buku oleh Departement van Koloniën.
+
+Setelah penulisnya membahas untung dan rugi sebuah hubungan antara Soebang dengan Troessanbaai dan dengan Brandewijnsbaai, ia menganjurkan pembangunan oleh negara atas sebuah lintas (dari ladang batu bara melalui Soebang ke teluk yang disebut terakhir, dengan sebuah lintas cabang ke Padang, yang di sana pembangunan pekerjaan pelabuhan akan diperlukan). Kesimpulan kedua ialah bahwa jalan kereta api dan tambang batu bara itu keduanya harus dieksploitasi oleh negara. Telah diperhitungkan bahwa beberapa tahun setelah pembukaan jalan itu, yang akan menelan biaya ƒ 25.000.000, pendapatan akan menutup pengeluaran. Laporan itu berakhir demikian: „Ayunan kapak pertama, yang menggema melalui hutan, akan menjadi pertanda hari yang menggembirakan. Ketika bunyi nyaring peluit uap untuk pertama kalinya terdengar di hutan dan dipantulkan berlipat ganda oleh dinding-dinding gunung, bagi Sumatra fajar baru akan telah menyingsing, merahnya pagi dari hari yang menggembirakan, yang pada hari itu segala daya yang hingga kini masih terlelap akan berkembang sepenuhnya”.
+
+Dalam laporan kedua, yang diajukan Tuan Cluysenaer pada Maret 1876 tentang pembangunan jalan-jalan kereta api lain di Padangsche Bovenlanden (diterbitkan dalam bentuk buku pada 1878 oleh Ministerie van Koloniën), insinyur ini sampai pada kesimpulan bahwa pembangunan jalan kereta api di Bovenlanden sangat layak dianjurkan, asalkan orang membatasi diri pada sebuah hubungan dengan jalan kereta api batu bara di Sawah Lawas. Biayanya ditaksir ƒ 9.000.000, yang menurut perhitungan moderat modal itu akan menghasilkan bunga 4%.
+
+Dalam laporan ketiga, bertanggal: Breda, Maret 1878 (juga terbit dalam bentuk buku pada 1878), Tuan Cluysenaer membahas penerapan bidang miring Agudio dan jalan rel bergigi (stangenbanen) menurut Riggenbach. Dengan memakai sistem yang disebut terakhir dan dengan memilih trase yang sama sekali lain, yaitu dari Padang melalui Kajoe Tanam, Aneikloof, Padang Pandjang, Danau Singkarah ke Sawah Loento, yang sekaligus memberi keuntungan bahwa lalu lintas di sebagian Bovenlanden dapat dilayani langsung oleh jalur batu bara, jalur itu hanya akan menelan ƒ 19.400.000 atau hampir ƒ 6.000.000 lebih murah daripada trase yang dianjurkan sebelumnya.
+
+[hal. 83]
+
+Meskipun Menteri mengakui bahwa hasil penelitian Cluysenaer sangat penting, ia menyatakan bahwa dana yang diperlukan untuk pembangunan tidak tersedia. Sehingga tidak ada yang terjadi!
+
+Segera setelah ladang batu bara itu ditemukan, antara lain Tuan van Diest dan Tuan-Tuan Baron Sloet van Oldruytenborgh dan Ruys, sebagai pihak swasta, mengajukan permohonan konsesi, baik untuk penambangan ladang batu bara maupun untuk pembangunan dan eksploitasi sebuah jalan kereta api dari ladang batu bara melalui Padang Pandjang dan Padang ke Brandewijnsbaai. Peminat-peminat lain juga bermunculan, yang semuanya meminta jaminan bunga, antara lain Tuan-Tuan van Heumen dan Sol, Tuan R. Verbeek, Tuan Mr. André Wiltens, gabungan Jhr. Quarles van Ufford, van den Bossche dan Verploegh — yang tiga terakhir berunding dengan Tuan van Diest —, sedangkan Tuan D.D. Veth meminta sebuah hubungan trem uap antara Padang dan Bovenlanden dengan sebuah jalan kereta api kabel ke Brandewijnsbaai. Dalam Koloniaal Verslag 1883, Menteri memberitahukan bahwa Pemerintah „dalam keadaan keuangan sekarang tidak menemukan kelonggaran — di saat begitu banyak urusan yang bersifat mendesak menuntut pengeluaran yang sangat besar — untuk menanggung pengorbanan demi pembangunan jalan kereta api dan penambangan batu bara di Sumatra”.
+
+Menyusul permohonan Quarles van Ufford, yang hendak mewujudkan pengangkutan batu bara melalui Soebangpas, Tuan Cluysenaer, yang pada November 1883 berada di Utrecht, menyampaikan laporan keempat tentang „Spoorwegaanleg in Midden-Sumatra” (terbit dalam bentuk cetak pada 1884), yang di dalamnya trase melalui Aneikloof tetap dipertahankan.
+
+Menteri Sprenger van Eyk, yang menggantikan menteri van Bloemen Waanders, menganggap perlu agar penambangan batu bara dan pembangunan, beserta eksploitasi selanjutnya, tetap berada dalam satu tangan. Agar pihak swasta diberi kesempatan memperoleh konsesi ladang batu bara Ombilin, yang ditemukan melalui penelitian yang diadakan oleh pemerintah, sebuah pelelangan terbuka dianggap perlu. Syarat-syaratnya, yang ditetapkan dengan keputusan tanggal 20 Juli 1886 No 29 dan dimuat dalam Javasche Courant tanggal 23 Juli tahun itu, beserta undangan kepada peminat, ditentang keras dalam sidang-sidang Tweede Kamer tanggal 17 dan 18 November 1886. Orang
+
+[hal. 84]
+
+secara umum menganggap diinginkan agar yang melakukan penambangan batu bara dan pembangunan jalan kereta api ialah Negara dan bukan industri swasta. Dalam Staatscourant tanggal 23 November dan Javasche Courant tiga hari kemudian lalu diumumkan bahwa pelelangan yang diumumkan itu tidak akan berlangsung pada tanggal yang ditetapkan — yakni 9 Desember 1887.
+
+Kepala insinyur S.S., Tuan J.W. IJzerman, yang sedang cuti di Holland, menyusun, menurut data yang ada, sebuah rancangan awal, yang di dalamnya biaya pembangunan diperhitungkan sebesar ƒ 14.800.000, sedangkan keuntungan akan berjumlah ƒ 631.500 atau 4¼% dari modal pembangunan. Selain itu Tuan IJzerman berpendapat bahwa penghematan penting akan timbul pada angkutan pemerintah (gouvernementstransport) berupa kopi, garam, dan lain-lain serta pada angkutan pegawai negeri dan militer. Selanjutnya, pengangkutan batu bara, begitu ladang Soengei Doerian dibuka, dapat berlangsung murah, sedangkan pembangunan pelabuhan pun akan menguntungkan, antara lain melalui bertambahnya pendapatan dari uang labuh jangkar dan sebagainya. Menteri Sprenger van Eyk menyetujui hal ini, meskipun ia hanya memberi nilai yang relatif pada perhitungan keuangan itu berkenaan dengan harga angkutan batu bara yang diperhitungkan. Menteri masih menulis dalam Memorie van Toelichting (penjelasan) atas rancangan undang-undang yang pada 30 Maret 1807 [sic, tercetak demikian; paragraf yang sama kemudian menyebut rancangan undang-undang tanggal 30 Maret 1887] diajukan kepada Staten-Generaal: „Tetapi juga terlepas dari keuntungan keuangan langsung, jalan kereta api yang dirancang itu layak dianjurkan, karena hanya dengan itu timbul kemungkinan untuk dapat memakai batu bara yang sangat baik, yang tersembunyi di tepi Sungai Ombilien, dan hal ini merupakan kepentingan bagi perdagangan dan pelayaran, tetapi terutama bagi Pemerintah, begitu besar sehingga sepenuhnya akan membenarkan suatu pengorbanan dari kas negara”. Rancangan undang-undang yang dimaksud, tanggal 30 Maret 1887, bertujuan membangun atas tanggungan Negara: 1e sebuah jalan kereta api di Gouvernement Pantai Barat Sumatra dari Brandewijnsbaai melalui Padang Pandjang dan dari sana ke Fort de Koek dan Moeara Kalaban dan 2e sebuah instalasi pelabuhan di Brandewijnsbaai.
+
+Dalam Memorie van Toelichting itu Menteri Koloniën antara lain menyatakan bahwa kepentingan umum Hindia menuntut penambangan ladang batu bara Ombilien, sedangkan kepentingan daerah (gewest) tempat ladang batu bara itu berada tidak kalah mendesak menuntut perbaikan
+
+[hal. 85]
+
+sarana angkutan. Yang terakhir ini hanya dianggap mungkin dengan pembangunan jalan kereta api oleh Negara. Maksudnya ialah memulai penambangan begitu pengangkutan batu bara dengan kereta api ke Brandewijnsbaai menjadi mungkin.
+
+Voorloopig Verslag (laporan pendahuluan) berbunyi sangat menguntungkan. Dalam Memorie van Antwoord (nota jawaban) Menteri masih menyatakan bahwa dimaksudkan untuk membuat pemimpin pembangunan jalan kereta api di Sumatra independen dari direksi S.S. di Jawa dan menempatkannya dalam hubungan yang sama dengan Pemerintah Hindia seperti yang di dalamnya Kepala Dinas Staatsspoorwegen di sana ditempatkan pada awal pembangunan jalan kereta api di Jawa (lihat akhir Bab II).
+
+Rancangan undang-undang itu, yang disetujui tanpa pemungutan suara perorangan, terbit pada 6 Juli 1887 dalam Indische Staatsblad No 163. Sebagai kepala pembangunan diangkat Tuan J.W. IJzerman, seorang bekas perwira zeni yang sebelumnya telah bertugas di bawah Tuan Cluysenaer pada pengukuran di Sumatra dan kemudian di Jawa pada pembangunan Staatsspoorwegen dan yang sedang cuti di Nederland. Dengan keputusan tanggal 17 September 1887 No 1/e [tercetak demikian] kemudian dibentuk sebuah Dinas Staatsspoorwegen ter Sumatra's Westkust (S.S.S.) yang terpisah, di bawah pimpinan seorang kepala insinyur, yang ditempatkan pada Departement der Burgerlijke Openbare Werken. Hampir pada saat yang sama ketika kepala dinas di Jawa, H.G. Derx, dibatasi wewenangnya (lihat Bab V), di Sumatra ditempatkan seorang kepala dengan kebebasan bertindak yang besar.
+
+Sementara pembangunan sedang berjalan penuh, Tuan-Tuan Cluysenaer dan P.J. van Houten pada 18 Juni 1889 mengajukan permohonan konsesi untuk penambangan ladang-ladang batu bara Ombilien dan untuk eksploitasi lintas-lintas yang sedang dibangun, yang permohonannya pada bulan Juli mereka jelaskan dengan sebuah Nota yang rinci, yang di dalamnya diuraikan lebih lanjut mengapa bukan Negara melainkan satu perusahaan swasta yang semestinya dibebani eksploitasi tambang dan jalan kereta api. Permohonan ini ternyata ditolak.
+
+Ruas Poeloe Ajer-Padang Pandjang milik S.S.S. sepanjang 71 K.M. mulai dieksploitasi pada 1 Juli 1891; ruas sepanjang 19 K.M. dari tempat yang disebut terakhir sampai Fort de Koek menyusul pada 1 November
+
+[hal. 86]
+
+tahun itu. Pada 1 Juli 1892 menyusul ruas Padang Pandjang-Solok (53 K.M.); pada 1 November tahun itu ruas Solok-Moeara Kalaban (23 K.M.) dan sekaligus rel pelabuhan (7 K.M.) Padang-Emmahaven di Koninginnebaai, sebagaimana Brandewijnsbaai sementara itu telah diganti namanya. Ruas Moeara Kalaban-Sawah Loento dibuka untuk lalu lintas umum pada 1 Januari 1894. Pada penyerahan, ternyata lintas itu menelan biaya lebih dari ƒ 4.000.000 lebih banyak daripada yang diperhitungkan pada anggaran, sebagai akibat pelaksanaan banyak pekerjaan yang semula tidak diperhitungkan. Lintas Fort de Kock-Pajacombo (33 K.M.), yang pembangunannya diperintahkan dengan undang-undang tanggal 13 Juli 1895 No 211, dapat mulai dieksploitasi pada 15 September 1896.
+
+Cukup lama jaringan itu tidak mengalami perluasan, hingga pada 1906 dan 1908 diperbesar melalui pembangunan ruas-ruas sepanjang 21 dan 14 K.M., Loeboek Alang-Priaman dan Priaman-Soengei Limau (undang-undang tanggal 29 Desember 1906 Ind. Stbl. 1907 No 16 dan tanggal 31 Desember 1908 Ind. Stbl. 1909 No 11). Ruas-ruas ini mulai dipakai pada 9 Desember 1908 dan 1 Januari 1911.
+
+Lintas-lintas trem Pajacombo-Limbanang (20 K.M.) dan Moeara Kalaban-Moearo (26 K.M.) mulai dipakai pada 19 Juni 1921 dan 1 Maret 1924. Pembangunannya diperintahkan dengan undang-undang tanggal 1 Juni 1918 Ind. Stbl. No 181 dan 30 Juli 1920 Ind. Stbl. No 642.
+
+Jaringan itu kini panjangnya 284 K.M.; lebar sepurnya normal, yaitu 1.067 Meter.
+
+Selama masa eksploitasi, rencana-rencana berulang kali muncul kembali untuk membangun hubungan yang lebih pendek antara ladang batu bara dan pantai. Rencana-rencana ini pada 1906 tidak memperoleh persetujuan komisi yang disebut Soebangpas-commissie.
+
+Demikian pula rencana-rencana asli — de Greve — mengenai hubungan Pantai Barat dengan Pantai Timur Sumatra berulang kali dibicarakan. Antara lain rencana-rencana itu terdapat dalam rencana-rencana Kepala Insinyur S.S.S. dan Ombilinmijnen W. de Jongh Dzn., bertanggal 5 Maret 1905, dalam laporan sebuah penjajakan jalan kereta api untuk Midden-Sumatra oleh kepala insinyur S.S. K.J.A. Ligtvoet, yang terbit pada Agustus 1908, yang di dalamnya dianjurkan pembangunan sebuah lintas negara dari Moeara Kalaban ke Pakan Baroe di Sungai Siak dan lintas-lintas pengumpan Soeliki-Pajacombo dan Pajacombo-Balar Pandjang, selanjutnya lintas-lintas Padang Sidempoean-
+
+[hal. 87]
+
+Sibolga dan Padang Sidempoean-Penjaboengan, yang rencana-rencananya, membentang sepanjang 487 K.M., akan memerlukan 10 tahun pelaksanaan dengan pengeluaran ƒ 24.000.000. Sekaligus kepala insinyur ini menganjurkan kemungkinan pengambilalihan Deli Spoorweg Maatschappij dan pembangunan jalan kereta api di Zuid-Sumatra. Kepala insinyur de Nivelle (Nivel) juga, dalam penjajakan jalan kereta apinya di Midden-Sumatra (1920, diterbitkan pada 1927), menyebut sebuah hubungan ke timur.
+
+S.S.S. mempertahankan hubungan mandirinya dengan Departement der Burgerlijke Openbare Werken — kemudian dengan Departement van Gouvernementsbedrijven — hingga 1917, ketika lintas itu digabungkan dengan perusahaan penambangan batu bara pada S.S. Pada 1918 dinas penambangan batu bara dipisahkan dari perusahaan kereta api.
+
+## Bab IX. Atjehtram
+
+<!-- Sumber: /tmp/book.txt:5704-6117 -->
+
+Atjehtram lahir hampir bersamaan dengan jalan kereta api negara pertama di Jawa; namun pembangunannya bukan akibat keadaan ekonomi. Dalam segala hal ia adalah anak perang.
+
+Setelah Perang Atjeh pada Maret 1873 dimulai dengan begitu malang dan Jenderal van Swieten, kepala ekspedisi ke-2, pada April 1874 kembali ke Jawa bersama sebagian besar pasukan, Jenderal Pel tertinggal di ujung utara Sumatra dengan pasukan pendudukan yang relatif kecil. Pasukan pendudukan ini membutuhkan segala sesuatu yang harus didatangkan dari luar: materiel, amunisi, bahan makanan, tetapi juga prajurit dan pekerja. Kotta Radja dijadikan pusat militer dan pusat pemerintahan; ke tempat ini dengan demikian harus berlangsung pengangkutan material dan perbekalan (vivres) dalam jumlah besar dari muara Sungai Atjeh yang berjarak 4 kilometer, tempat sebuah gudang penimbunan telah didirikan. Pengangkutan ini dilakukan dengan perahu prauw Tionghoa yang ditarik oleh kapal barkas uap ke Kampong Djawa; dari sana pengangkutan dilakukan dengan jalan rel.
+
+Untuk memperbaiki keadaan yang tidak dapat dipertahankan ini, perwira zeni yang pertama hadir, Mayor Leers, kemudian mengajukan usul kepada Jenderal Pel untuk membangun di Olehleh sebuah kepala dermaga (zeehoofd) di atas tiang ulir dan menghubungkannya dengan Kotta Radja melalui jalan kereta api sepanjang kira-kira 4 K.M.
+
+Sebuah komisi, terdiri atas intendan pasukan ekspedisi, seorang pejabat pemerintahan, dan seorang perwira laut, menerima usul ini untuk dimintai pertimbangan pada 24 Mei 1873 [tercetak demikian, juga pada pindaian halaman pembuka bab, hal. 88 yang tidak bernomor cetak; tidak dikoreksi, meskipun Olehleh baru diusulkan setelah April 1874]; usul itu diselesaikan dengan kecepatan yang layak, sementara pelaksanaan segera didesakkan. Sudah pada 26 Juni 1874 Gubernur Jenderal dengan keputusan No 4 menyetujui pembangunan itu, tetapi saat itulah kesulitan baru dimulai. Tenaga kerja sering kali tidak dapat ditemukan; selain itu, kayu dan besi untuk kepala dermaga harus didatangkan dari Singapura, dan bahan-bahan untuk jalan rel dari Inggris.
+
+[hal. 89]
+
+Dimulai pada September 1874, jalan rel itu baru pada 12 Agustus 1876 dapat dieksploitasi antara Kotta Radja dan Lagune, sedangkan secara keseluruhan, yakni sampai Olehleh, baru rampung pada 12 November tahun itu. Kepala dermaga di sana rampung sedikit lebih dulu, yaitu pada September 1876.
+
+Manfaatnya segera tampak karena kesulitan-kesulitan pengangkutan, yang sampai saat itu bekerja sangat menghambat, lenyap sepenuhnya. Pekerjaan jalan kereta api itu menelan biaya kira-kira ƒ 540.000, di antaranya kira-kira ƒ 140.000 untuk materiel; panjang lintasnya kira-kira 5 K.M. Sebagai lebar sepur ditetapkan lebar sepur normal Jawa, yaitu 1.067 Meter.
+
+Jalan kereta api Olehleh-Kotta Radja untuk sementara tidak mengalami perluasan. Hal itu baru terjadi setelah Jenderal van der Heyden menaklukkan seluruh Groot-Atjeh (akhir 1879). Pada saat itu — yakni pada Januari 1880 — kapten zeni W. Cool mengajukan rencana untuk memperpanjang jalan kereta api itu sampai Glé Kambing, sehingga dapat dicukupkan dengan pasukan pendudukan yang lebih sedikit.
+
+Meskipun Jenderal van der Heyden dengan hangat membela usul perpanjangan lintas itu kepada Pemerintah Hindia, ia tidak dapat memperoleh persetujuan di Batavia. Lain halnya pada 1882, ketika pemerintahan sipil diberlakukan di Atjeh dan lintas yang ada beralih ke pengelolaan Departement van Burgerlijke Openbare Werken. Rencana-rencana lama kemudian diungkit kembali, dengan akibat bahwa diputuskan untuk memperpanjang sampai Glé Kambing. Akan tetapi dengan lebar sepur 0.75 M.; lintas yang sudah ada pun akan dibangun ulang menjadi lebar sepur ini. Pilihan jatuh pada lebar sepur sempit ini karena pembangunan akan memanfaatkan jalan kolonne (colonneweg) yang lebarnya 6 Meter. Dengan memilih 0.75 Meter sebagai lebar sepur, di luar profil ruang bebas masih akan tersisa lebar jalan yang diperkeras 3.45 Meter, yang dianggap cukup memadai untuk angkutan biasa.
+
+Serangan orang Atjeh menghambat pekerjaan pengukuran dan pemasangan jalur. Tenaga kerja kadang-kadang sangat sulit diperoleh, sehingga ketika Gubernur Jenderal s’ Jacob mengunjungi Groot Atjeh pada 1883, diputuskan agar pembangunan jalan trem hanya dilakukan sampai Anakgaloeng. Lintas yang semula direncanakan sampai Glé Kambing dengan demikian sudah dipangkas 10 K.M. Rencana-rencana semula masih akan dipangkas lebih jauh, dan hanya 8 K.M.
+
+[hal. 90]
+
+perpanjangan sampai Lambaroe yang tersisa setelah kunjungan Gubernur Jenderal van Rees ke Atjeh. Pada 8 Juni 1884 jalan trem uap dari Olehleh ke Kotta Radja selesai dibangun ulang, pada 1 Agustus 1884 jalur sampai Lambaroe rampung, dan lintas itu selanjutnya bernama: „de Atjehtram”.
+
+Hampir bersamaan diputuskan apa yang disebut „konsentrasi” pasukan kita, yakni dilepaskannya sebagian besar wilayah yang diduduki, penarikan mundur ke Kotta Radja, yang dikelilingi oleh rantai pos yang tertutup rapat; blokade negara-negara pesisir akan melakukan sisanya. Pada 1885 kemudian dibangun sebuah jalur lingkar (ringbaan) dari Lam Djamee melalui Lambaroe ke Lam Njong; lintas ke Lambaroe menjadi lintas radial (straallijn). Pada 1885 dan 1886 ditambahkan lagi dua lintas radial, yaitu ke arah barat daya ke Ketapang Doea dan ke arah barat laut ke Tongah, Pakan Kroeng Tjoet, dan Lam Njong. Rumah sakit militer di Panteh Perak juga disambungkan ke trem. Pada Juli 1886 seluruh pembangunan oleh B.O.W. di bawah perlindungan militer selesai; yang dieksploitasi saat itu ± 39 K.M.
+
+Akibat kerusakan berulang yang ditimbulkan orang Atjeh, ruas Lam Reng-Lambaroe dari lintas lingkar harus dibongkar pada Oktober 1889 — pada Maret 1891 menyusul pemulihannya — dan sebuah lintas radial baru Lam Reng-Bringin dipasang.
+
+Karena pembangunan dan eksploitasi trem harus berlangsung sambil bertempur, dan orang Atjeh terus-menerus mengganggu dengan perusakan besar-besaran, Direktur B.O.W. van Bosse meminta agar lintas trem itu ditempatkan kembali di bawah pengelolaan militer. Hal itu terjadi mulai 1 Maret 1890.
+
+Untuk sementara lintas itu tidak diperluas. Hal itu baru terjadi pada 1897, ketika, setelah pembelotan Toekoe Oemar pada tahun sebelumnya, diputuskan untuk menjalankan politik yang lebih agresif. Dengan tetap mempertahankan garis terkonsentrasi, kolonne-kolonne bergerak (mobiele colonnes) akan ditempatkan di Lho Nga, Tjot Mantjang, dan Indrapoeri, yang tempat-tempatnya akan disambungkan ke jalur lingkar dengan lintas-lintas trem. Pembangunan lintas-lintas ke dua tempat yang disebut pertama kemudian ditiadakan. Sebaliknya, perpanjangan sepanjang 16 K.M. sampai Glé Kambing rampung pada 15 November 1897, setelah undang-undang tanggal 2 Mei 1897 Ind. Stbl. No 199 t.v. [singkatan "t.v." tercetak demikian dalam sumber dan pindaian hal. 90; tidak dijabarkan] menyetujui dana yang diperlukan. Pada pembangunan itu digunakan bahan-bahan dari lintas-lintas yang dibongkar
+
+[hal. 91]
+
+Lam Reng-Bringin dan Ketapang Doea-Lambaroe. Pada 1897 juga rampung sebuah lintas samping kecil ke pemakaman Eropa Petjoet.
+
+Pada Januari 1898 dimulai pembangunan perpanjangan sepanjang 19 K.M. dari Glé Kambing ke Seulimeum, yang pada 1 November 1898 dapat dieksploitasi. Secara bertahap jalur-jalur lingkar dan radial yang lama kemudian dibongkar.
+
+Betapapun inginnya Jenderal van Heutsz, yang pada Maret 1898 tampil sebagai Gubernur Atjeh, segera memperpanjang lintas itu melewati daerah pemisah air antara Pedir dan lembah Atjeh, ia sangat menyadari bahwa dalam hal itu akan dijumpai kesulitan teknis yang besar. Untuk sebuah pengintaian (verkenning) ia ingin memiliki seorang insinyur pembangunan S.S. yang berpengalaman. Untuk itu dikirimlah dari Jawa Tuan A.E. Wijss, yang memperkirakan biaya sebesar ƒ 3.000.000 dengan waktu pembangunan 3 tahun. Jenderal van Heutsz kemudian membatasi diri pada pembangunan lintas Segli-Gedeh Breue sepanjang 17 K.M. (undang-undang tanggal 31 Desember 1898 Ind. Stbl. 1899 No 9), yang rampung pada November 1899, tetapi hanya 14 K.M. pertamanya, yakni dari Segli ke Padang Tidji, yang dieksploitasi; antara Gedeh-Breue dan Seulimeum dibangun sebuah jalan kolonne sederhana.
+
+Segera saja Jenderal van Heutsz mengemukakan rencana untuk memperpanjang lintas itu menyusuri pantai sampai Deli, yakni sampai Koeala Simpang, dengan sambungan selanjutnya yang harus diwujudkan oleh Deli Spoorweg Maatschappij. Pada anggaran belanja untuk 1900 diminta dan disetujui dana untuk lintas Segli-Lho Semawé sepanjang 150 K.M., sehingga pada 20 November 1901 lintas sepanjang 45 K.M. sampai Meureudoe dapat diresmikan. Pada akhir 1902 lintas itu rampung kecuali ruas Samalanga-Peudada sepanjang 27 K.M., tetapi pada 1 April 1904 lintas sampai Lho-Semawé dapat dieksploitasi (undang-undang tanggal 30 Desember 1899 Ind. Stbl. 1900 No 4).
+
+Mengenai hubungan Lho Semawé-Deli, pada awal 1900 telah dilakukan perundingan pendahuluan dengan Deli Spoorweg Maatschappij mengenai pembangunan lebih lanjut oleh perseroan ini. Namun syarat-syarat yang diajukan perseroan itu dianggap terlalu tinggi, sehingga diputuskan agar pembangunan dilakukan oleh Negara (den Lande). Setelah pembentuk undang-undang anggaran memberikan suara untuk dana itu, — undang-undang tanggal 29 Desember 1900 Ind. Stbl. 1901 No 4 —, pada
+
+[hal. 92]
+
+1902 dimulai pembangunan, dan pada 1 Juli 1904 lintas Lho Semawé-Idi sepanjang kira-kira 100 K.M. dapat dipakai.
+
+Pada 1 Februari 1906 menyusul pembukaan ruas sepanjang 65 K.M. antara Idi dan Langsa, dan pada 15 Juni tahun yang sama lintas samping sepanjang 9 K.M. ke Langsabaai, tempat sebuah dermaga pendaratan dengan gudang penimbunan dan gudang bea cukai rampung pada 1907 (undang-undang tanggal 31 Desember 1902, Ind. Stbl. 1903 No 13).
+
+Jaringan dari Padang Tidji di utara sampai Langsa di selatan, termasuk lintas samping ke Langsabaai, panjangnya 345 K.M.
+
+Rencana untuk menghubungkan kedua jaringan, yang di antaranya jaringan di Groot-Atjeh telah menyusut menjadi 46 K.M. akibat pembongkaran jalur lingkar, melintasi daerah pemisah air dirasakan sebagai keharusan. Undang-undang tanggal 23 Juli 1903 Ind. Stbl. No 337 memerintahkan pembangunan lintas pegunungan (berglijn) ini, yang rampung pada 1 April 1908. Yang dieksploitasi saat itu 423 K.M., yang menelan biaya + ƒ 17.250.000.
+
+Diperlukan beberapa tahun sebelum perluasan lebih lanjut jaringan Atjeh terjadi, yaitu sampai 1910, ketika dana untuk perpanjangan dari Langsa ke Koeala Simpang (35 K.M.) diminta dan diperoleh (undang-undang tanggal 15 Juli 1910 Ind. Stbl. No 476).
+
+Pada 2 September 1912 ruas ini dieksploitasi. Sementara itu dana lebih banyak telah disetujui — undang-undang tanggal 31 Desember 1912 Ind. Stbl. 1913 No 14 — untuk perpanjangan sampai Besitang dan untuk lintas samping ke Telok Taboehan di Aroebaai, tempat sebuah pelabuhan akan dibangun. Rencana ini kemudian ditinggalkan, ketika diputuskan untuk membangun pelabuhan di Pangkalan Soesoe.
+
+Pada 1 Februari ruas Koeala Simpang-Besitang (40 K.M.) dieksploitasi [tahun tidak disebut dalam sumber, juga pada pindaian hal. 92], pada 2 April 1917 lintas sampai Pangkalan Soesoe rampung. Sementara itu, pada 1 Januari 1916 lintas itu dialihkan pengelolaannya oleh Departement van Oorlog kepada dinas Staatsspoor- en Tramwegen.
+
+Di Besitang, Atjehtram akan bersambung dengan perpanjangan Delispoorweg, yang saat itu masih dalam pengerjaan. Perpanjangan dari Pangkalan Brandan sepanjang 15 K.M. ini akan dibangun dengan lebar sepur normal, yang telah diterapkan pada lintas-lintas Deli Spoorweg Maatschappij, sedangkan lintas Besitang-Pangkalan Soesoe, dengan bantuan rel ketiga, akan dieksploitasi bersama oleh
+
+[hal. 93]
+
+Atjehtram dan Deli Spoorweg Maatschappij. Pada 24 Desember 1919 sambungan di Besitang rampung; pada 1 Desember 1921 rel ketiga telah dipasang pada ruas Besitang-Pangkalan Soesoe dan pemakaian bersama oleh Deli Spoorweg Maatschappij dapat dimulai.
+
+Dengan ini pembangunan Atjehtram, yang berlangsung selama kurun hampir lima puluh tahun, berakhir. Perluasan sejak itu tidak terjadi lagi. Panjangnya adalah dan tetap 511 K.M., sedangkan biaya pembangunan kira-kira ƒ 23.000.000.
+
+Perlu disebutkan pula bahwa sejak 1895 Atjehtram di Kotta Radja mengoperasikan sebuah pabrik es sebagai usaha sampingan.
+
+Lintas ini memberikan sumbangan penting bagi perkembangan ekonomi Sumatra Utara. Namun fungsi utamanya terletak pada pengaruh pasifikasi yang berasal darinya. Nilai itu tentu saja tidak dapat dinyatakan dalam angka.
+
+<!-- Sumber: /tmp/book.txt:6118-6410 -->
+
+## Bab X. Deli Spoorweg Maatschappij
+
+Ketika pada awal tahun delapan puluhan budi daya tembakau mulai berkembang di Deli, Tuan de Guigne mengajukan permohonan konsesi untuk sebuah jalan kereta api. Permohonan yang menyangkut hubungan antara Laboean Deli dan Medan itu, bagaimanapun, ditolak pada Juni 1881 karena pemohonnya bukan orang Belanda. Sebulan kemudian Tuan J.T. Cremer, kelak Menteri Koloniën, yang ketika itu masih menjadi administrator kepala Deli Maatschappij, mengajukan permohonan konsesi atas nama perseroannya untuk sebuah jalan kereta api dari Belawan ke Medan dan dari sana ke daerah-daerah swapraja (landschappen) Langkat dan Serdang. Pada 29 Oktober 1881 Tuan Cremer dijawab bahwa terhadap permohonan itu tidak ada keberatan prinsipiil; dengan demikian telah dikeluarkan konsesi sementara untuk sebuah jalan kereta api sepanjang 66 K.M. dengan lebar sepur 0.70 à 0.75 M., di Pantai Timur Sumatra, yang berjalan dari Laboean Deli ke Medan dan Deli Toea dengan lintas-lintas cabang dari Medan ke Tandjong Morawa.
+
+Dengan surat permohonan (rekest) tanggal 16 Agustus 1882 perseroan itu meminta dicabutnya konsesi yang telah diberikan dan dikeluarkannya konsesi baru, yaitu untuk pembangunan dan eksploitasi sebuah jalan kereta api dengan lebar sepur 1.067 Meter, yang berjalan dari tempat berlabuh (ankerplaats) Belawan melalui Medan ke Deli Toea, dengan sebuah lintas cabang dari Medan ke Timbang Langkat. Dengan keputusan tanggal 23 Januari 1883 No 17 konsesi itu diberikan untuk 90 tahun. Konsesi itu segera dialihkan kepada Deli Spoorweg Maatschappij (D.S.M.), yang segera memulai pembangunan dan pada 25 Juli 1886 membuka ruas pertama Laboean-Medan sepanjang 17 K.M. untuk lalu lintas umum. Pada 16 Februari 1888 seluruh lintas sampai Belawan rampung, setelah pada 1 Mei 1887 lintas dari Medan ke Timbang Langkat mulai dieksploitasi.
+
+Dengan keputusan tanggal 28 April 1888 No 9, Deli Spoorweg Maatschappij memperoleh konsesi untuk pembangunan sebuah jalan kereta api dari Medan ke Perbaoengan, dan dengan keputusan tanggal 20 Juni 1889 No 1,
+
+[hal. 95]
+
+untuk pembangunan lintas Timbang Langkat-Selesseh. Lintas yang disebut pertama, sampai Perbaoengan, rampung dalam dua tahap, ruas pertama sampai Serdang sepanjang 20 K.M. pada 1 Juli 1889, ruas kedua (18 K.M.) pada 7 Februari 1890. Perpanjangan dari Timbang Langkat sampai Selesseh dibuka untuk lalu lintas umum pada 19 Desember 1890. Jaringan itu pada tanggal yang disebut terakhir memiliki panjang 103 K.M.; untuk sementara angka ini tidak mengalami perubahan.
+
+Baru pada 1900 D.S.M. kembali memikirkan perluasan. Angkutan, sebagai akibat kemajuan budi daya, telah berkembang sedemikian rupa sehingga pembangunan sebuah trem uap sepanjang 30 K.M. antara Perbaoengan dan Bamban dapat dibenarkan. Dengan keputusan tanggal 12 Februari 1900 No 2 konsesi diberikan; pada 11 April 1902 lintas itu mulai dieksploitasi. Pemberian konsesi itu merupakan akibat suatu permohonan pada 1897, yang di dalamnya ditunjukkan kemajuan budi daya tembakau di daerah-daerah swapraja Padang dan Bedagei, budi daya kopi di Serdang, pesatnya perkembangan yang dialami industri minyak bumi dan budi daya lada di Beneden Langkat, serta sangat cocoknya tanah di daerah Tamiang untuk budi daya tembakau. Berkaitan dengan itu dikemukakan perlunya pembangunan lintas-lintas 1e. Perbaoengan-Tebing Tinggi, 2e. Loeboek Pakam-Boven Serdang, 3e. Selesseh-Pangkalan Soesoeh dan 4e. Pangkalan Soesoeh-Koeala Simpang. Untuk sementara, bagaimanapun, hanya tiga hubungan yang dipertimbangkan, yaitu Perbaoengan-Soengei Rampat, Loeboek Pakam-Boven Serdang dan dari Selesseh ke Tandjoeng Poera, dan itu sebagai lintas trem dengan lebar sepur 0,7 Meter. Bila Pemerintah menghendaki sebuah jalan kereta api dengan lebar sepur normal dari Selesseh ke Aroebaai dan Koeala Simpang, maka untuk itu diminta subsidi. Menteri Bergsma tidak tertarik pada usul ini. Sebaliknya penggantinya, Tuan Cremer, tertarik; perundingan yang berlarut-larut merupakan akibatnya. Hasilnya ialah bahwa selain konsesi trem sampai Bamban, yang terlaksana pada 11 April 1902, dengan keputusan tanggal 13 Juli 1900 No 1 diberikan konsesi untuk sebuah lintas trem dari Timbang Langkat melalui Tandjong Poera ke Pangkalan Brandan, dengan keputusan tanggal 12 Juli 1901 No 25 untuk sebuah lintas trem dari Loeboek Pakam ke Bangoen Poerba, dengan keputusan tanggal 11 Agustus 1901 No 33 untuk sebuah lintas trem dari Selesseh ke Koeala, dan dengan keputusan
+
+[hal. 96]
+
+tanggal 20 September 1901 No 24 untuk sebuah lintas trem dari Bamban ke Rantau Laban, semuanya untuk dibangun dengan lebar sepur normal. Lintas-lintas ini, yang menyangkut Timbang Langkat-Tandjong Poera-Pangkalan Brandan, rampung pada 20 Juni 1903, 1 Agustus dan 15 Desember 1904, sedangkan lintas Loeboek Pakam-Bangoen Poerba (28 K.M.) rampung pada 10 April 1904, adapun lintas Selesseh-Koeala mulai dieksploitasi pada 5 November 1902 dan lintas Bamban-Rantau Laban pada 2 Maret 1903.
+
+Konsesi berikutnya menyangkut sebuah trem antara Kampong Baroe dan Arnhemia, yang diberikan dengan keputusan tanggal 20 September 1906 No 62. Lintas kecil sepanjang 15 K.M. ini mulai dieksploitasi pada 1 Oktober 1907.
+
+Dalam bab sebelumnya telah dibicarakan perundingan dengan D.S.M. mengenai sambungan dengan Atjehtram. Beberapa rincian lagi dapat menyusul di bawah ini.
+
+Pada 1908 D.S.M. meminta izin untuk pembangunan dan eksploitasi sebuah lintas trem dari Pangkalan Brandan ke Telok Taboean di Aroebaai. Permohonan ini menimbulkan perundingan yang berlarut-larut, yang dalam rangka menyelesaikan kesulitan yang timbul itu Pemerintah meminta nasihat apa yang disebut Aroebaai-commissie. Hasil akhirnya ialah bahwa dengan keputusan tanggal 9 September 1902 No 14 [tercetak demikian pada OCR dan pindaian hal. 96; tahun 1902 mendahului permohonan 1908 yang disebut di kalimat sebelumnya; tidak dikoreksi] syarat-syarat konsesi D.S.M. yang diubah disetujui, bahwa konsesi diberikan untuk lintas-lintas trem dari Tebing Tinggi ke Telok Niboeng dan ke Dollok Mrawan, dan prioritas untuk sebuah jalan trem dari Pangkalan Brandan ke Aroebaai. Lintas Tebing Tinggi ke Dollok Mrawan, dengan keputusan tanggal 25 Agustus 1914 No 2, diperpanjang dengan sebuah ruas Dollok Mrawan ke Pematang Siantar. Pada 5 Mei 1916 lintas ini telah dieksploitasi. Ruas Tebing Tinggi sampai Tandjong Balei dibuka untuk lalu lintas umum pada 6 Agustus 1915, ruas dari Tandjong Balei ke Telok Niboeng pada 1 Februari 1918.
+
+Perpanjangan lintas Medan-Deli Toea sampai Batoe berlangsung dengan keputusan tanggal 10 Juni 1915 No 28. Pada 1 Desember 1915 pembangunan ruas pendek ini rampung.
+
+Perlu disebutkan bahwa pada 29 Desember 1919 lintas Pangkalan Brandan-Besitang rampung dan dengan itu sambungan dengan Atjehtram di tempat yang disebut terakhir (lihat bab sebelumnya). Dari titik sambungan dipasang sebuah rel ketiga
+
+[hal. 97]
+
+sepanjang ruas lintas Besitang-Pangkalan Soesoeh milik Atjehtram. Pada 16 Mei [tahun tidak disebut dalam sumber, juga pada pindaian hal. 97] ditutup perjanjian pemakaian bersama ruas lintas ini. Konsesi pembangunan lintas Pangkalan Brandan-Besitang dimuat dalam keputusan tanggal 26 Oktober 1917 No 56; dalam keputusan itu sekaligus dimuat konsesi yang diubah dan dilengkapi untuk semua lintas D.S.M.
+
+Pada awal 1928 sepanjang 439 K.M. telah dieksploitasi, yang menurut perubahan konsesi tanggal 26 Oktober 1917 terdiri atas: 271 K.M. kereta api dan 168 K.M. lintas trem.
+
+Kereta api itu ialah:
+
+- Medan-Belawan;
+- Medan-Timbang Langkat;
+- Medan-Perbaoengan-Tebing Tinggi-Tandjong Balai-Telok Niboeng dan Tebing Tinggi-Pematang Siantar.
+
+Lintas trem itu ialah:
+
+- Medan-Batoe;
+- Timbang Langkat-Koeala;
+- Timbang Langkat-Tandjong Poera-Pangkalan Brandan-Besitang-Pangkalan Soesoeh;
+- Loeboek Pakam-Bangoen Poerba dan
+- Kampong Baroe-Arnhemia.
+
+Selain itu D.S.M. masih memegang konsesi yang diberikan dengan keputusan tanggal 13 Desember 1926 No 6 untuk pembangunan dan eksploitasi sebuah lintas trem uap dari stasiun Kisaran yang ada ke arah selatan sampai suatu titik yang terletak kira-kira 1 K.M. di sebelah selatan Sungai Koealoe. Selama lima tahun pertama eksploitasi, lintas ini tidak perlu diperuntukkan bagi angkutan penumpang.
+
+Konsesi ini diterima pada 1 Juni 1927.
+
+<!-- Sumber: /tmp/book.txt:6411-6806 -->
+
+## Bab XI. Kereta Api Sumatra Selatan
+
+Rencana untuk membangun jalan kereta api melintasi hutan belantara Sumatra Selatan yang belum dikenal baru bermula pada akhir abad lalu. Tidak mengherankan bahwa negeri ini baru begitu lambat menarik perhatian para pemburu konsesi. Berabad-abad lamanya lalu lintas berlangsung menyusuri sungai-sungai lebar yang dapat dilayari dengan baik, tempat pusat-pusat perdagangan didirikan. Di luar itu tidak ada kebutuhan akan lalu lintas.
+
+Namun ada orang-orang berpandangan jauh yang meramalkan masa depan besar bagi Sumatra Selatan. Di antaranya perwira laut purnawirawan dan pengusaha perkebunan Preanger R.A. Eekhout, bekas pemegang konsesi lintas Serajoedal dan jaringan trem listrik Batavia. Berkaitan dengan rencana konsesi di Banten, ia juga memasukkan seberang Selat Sunda ke dalam fantasi masa depannya. Maka pada November 1895 ia meminta prioritas dua tahun untuk sebuah sistem kereta api listrik antara Benkoelen melalui Lahat ke Palembang, dengan lintas cabang dari Lahat melalui Menggala dan Telokbetong ke Peganloengan di Selat Sunda.
+
+Permohonan itu ditolak, tetapi menjadi alasan bagi Pemerintah untuk mempertimbangkan apakah pembangunan kereta api di Sumatra Selatan diperlukan. Selama kurun itu sejumlah permohonan spekulatif dari pihak lain, yang tidak bertumpu pada pengintaian (verkenning) yang serius, diterima dan ditolak.
+
+Menteri Cremer kurang tertarik pada rencana kereta api negara di Sumatra Selatan. Selain karena keadaan keuangan yang tidak menguntungkan menghalangi pembangunan oleh Negara, dinilai bahwa pada umumnya di daerah ini tidak ada kebutuhan akan sarana komunikasi yang lebih baik. Penggantinya, jhr. van Asch van Wijk, berpikir lain tentang hal itu. Pada akhir 1901 ia menyetujui usul untuk melakukan pengintaian oleh Negara, setelah gagasan pembangunan oleh Negara dilepaskan; ƒ 26.000 disediakan untuk pengintaian dengan keputusan 16 Februari 1902 No 6, sementara kepala insinyur K.J.A. Ligtvoet
+
+[hal. 99]
+
+ditugasi memimpin pekerjaan itu. Penyelidikan setempat selesai pada Maret 1903, hasilnya dituangkan dalam sebuah laporan yang terbit pada 1904 dengan judul „Spoorwegverkenning in Zuid-Sumatra”. Menurut rencana kereta api yang disusun atas dasar laporan itu oleh Direktur Burgerlijke Openbare Werken, lintas utama akan berjalan dari Telok Betong melalui Banten, Moeara Enim, Tebingtinggi, Kepahiang ke Benkoelen dan dari Banten ke Palembang, panjangnya 922 K.M., dengan enam lintas samping sepanjang 433 K.M. Pembangunan jaringan sepanjang 1355 K.M. ini akan menelan 94.5 juta gulden, dibagi atas masa pembangunan masing-masing 22 dan 25 tahun. Pembangunan kereta api harus disertai imigrasi orang Jawa ke Sumatra Selatan. Tidak satu pun lintas kereta api atau trem dalam jaringan rancangan itu dianggap menghasilkan bunga.
+
+Akibat langsung dari pengintaian kereta api itu tidak ada. Namun ia membangkitkan minat pihak swasta, sebagaimana tampak dari sebuah „Schets voor een voorstel tot oprichting eener Sumatra-Bantam Maatschappij” bertanggal Juni 1903 yang disusun oleh Tuan-tuan J.A. van Delden, J. André de la Porte, dan A. Snethlage. Kombinasi yang sama pada 26 Desember 1904 mengajukan sebuah Nota tentang eksploitasi trem negara oleh sebuah perseroan swasta.
+
+Demikian pula kepada Menteri Koloniën diajukan sebuah Nota mengenai pembangunan kereta api lokal di Sumatra Selatan, yang disusun oleh Tuan-tuan Th. Delprat dan C. de Vries dan bertanggal 30 September 1904.
+
+Selain itu Pemerintah masih menerima banyak permohonan konsesi.
+
+Penting pula sebuah surat dari Tuan-tuan C.J.K. van Aalst, F.J. Dozy, dan E. Heldring, bertanggal 18 Maret 1905, yang di dalamnya Gubernur Jenderal diminta menyampaikan pandangannya mengenai pembangunan kereta api di Sumatra Selatan dengan modal swasta disertai bantuan Negara. Surat ini memang berakibat timbulnya pertukaran pikiran yang hidup antara Gubernur Jenderal J.B. van Heutsz, yang mengarahkan Tuan-tuan van Aalst c.s. kepada Menteri, dan Pemerintah Tertinggi (Opperbestuur) di Belanda. Pemerintah Hindia berpendapat bahwa pembangunan oleh Negara tidak perlu dikesampingkan; Menteri A.W.F. Idenburg tidak menyukai gagasan menanamkan modal di Sumatra Selatan dalam keadaan sekarang
+
+[hal. 100]
+
+dan ingin menelaah pertanyaan sejauh mana kepentingan Negara menuntut agar bantuan diberikan kepada pihak swasta. Yang Mulia lebih condong pada rencana Tuan-tuan Delprat dan de Vries, „untuk menyerahkan pembangunan dan eksploitasi kereta api yang dipandang perlu di Daerah Luar Jawa (Buitenbezittingen) kepada sebuah Perseroan, tetapi hanya bila ia menjadi pelaksana hubungan-hubungan yang dipandang perlu oleh Pemerintah”. Dengan mengambil laporan terkenal kepala insinyur Sumatraspoorweg dan tambang Ombilin W. de Jongh Dzn mengenai perluasan kereta api di Sumatra Tengah tanggal 5 Maret 1905 sebagai titik tolak, Gubernur Jenderal sampai pada kesimpulan bahwa pembangunan oleh Negara patut diutamakan, asalkan biayanya dapat ditutup dari sebuah pinjaman yang besar.
+
+Menteri Koloniën Mr. D. Fock tetap pada pandangan pendahulunya bahwa pembangunan oleh pihak swasta patut dianjurkan. Karena itu kepada Tuan-tuan van Aalst c.s. ditulis bahwa Pemerintah bersedia, selama 1½ tahun, tidak berunding dengan pihak lain mengenai pembangunan kereta api dan trem di Distrik-distrik Lampong. Syarat utama sebuah konsesi ialah bahwa kombinasi itu, dalam jangka waktu tertentu, akan mengajukan permohonan disertai pengukuran kereta api yang saksama, disusul rancangan pendahuluan lengkap beserta taksiran hasil yang menyertainya.
+
+Syarat ini — pada akhir 1907 — dipandang terlalu memberatkan oleh Tuan-tuan van Aalst c.s.
+
+Selagi perundingan ini berlangsung, Tuan-tuan I.A. van Rijn van Alkemade dan A. Snethlage meminta prioritas satu tahun untuk sebuah konsesi yang menyangkut pembangunan dan eksploitasi sebuah trem uap antara Palembang dan Moeara Enim. Setelah berkorespondensi dengan Menteri Fock tentang kebijakan kereta api yang akan ditempuh selanjutnya, dengan keputusan 2 Februari 1908 No 2 prioritas yang diminta diberikan kepada Tuan-tuan itu.
+
+Tak lama kemudian, dengan keputusan 8 Mei 1908 No 6, diperintahkan pengukuran kereta api untuk Sumatra Selatan, yang untuknya kepala insinyur P. Richter ditugasi. Pada 11 Juni 1910 ia menyerahkan laporannya (dicetak pada 1911).
+
+Berkaitan dengan kepentingan yang diwakili lintas Moeara Enim-Palembang dalam sebuah rencana kereta api umum bagi Sumatra Selatan,
+
+[hal. 101]
+
+prioritas tersebut di atas tidak diperbarui setelah jangka waktu satu tahun yang ditetapkan.
+
+Perlu disebutkan pula bahwa Tuan J.Th. Gerlings, atas undangan Menteri Fock untuk itu, pada 11 Mei 1908 telah mengajukan sebuah Nota berjudul „Beschouwingen over den te kiezen weg tot bevordering van den spoorwegaanleg in Zuid-Sumatra”.
+
+Penyelidikan Tuan Richter, yang dituangkan dalam Rapportnya, menghasilkan penyimpangan yang berarti dari trase-trase yang diusulkan sebelumnya. Dianjurkan pembangunan sebuah lintas Telok Betong-Praboemoelih-Palembang, yang akan disambung dengan sebuah lintas Praboemoelih-Moeara Enim. Panjang total lintas itu akan 463.5 K.M., sedangkan biaya pembangunan ditaksir ƒ 37.600.000. Sebuah perhitungan menunjukkan bahwa surplus bersih eksploitasi tidak akan lebih dari ƒ 54.000, yakni kira-kira ¼ % dari modal pembangunan [tercetak demikian pada pindaian hal. 101].
+
+Didukung oleh Kepala Inspektur S.S., Tuan H.F. van Stipriaan Luïscius, dan Direktur Gouvernementsbedrijven H.J.E. Wenckebach, Pemerintah Hindia juga berhasil meyakinkan Menteri Koloniën J.H. de Waal Malefijt tentang mendesaknya pembangunan itu. Dengan undang-undang 30 Desember 1911 (Ind. Stbl. 1912 No. 121) diputuskan pembangunan. Sebagai kepala pembangunan ditunjuk Tuan J. van der Waerden, yang memulai pekerjaan di dua tempat, baik di Lampong maupun di Palembang. Banyak kesulitan dialami dalam hal itu karena kekurangan tenaga kerja, sehingga pada 1912 bahkan harus didirikan sebuah kantor imigrasi tersendiri di Jawa.
+
+Pada 3 Agustus 1914 ruas pertama mulai dieksploitasi, yaitu lintas kecil sepanjang 12 K.M. dari Pandjang (Oosthaven) ke Tandjoeng Karang. Dari Lamponglijn, pada 1 Maret 1915 ruas sepanjang 5 K.M. Tandjoeng Karang-Laboeanratoe dan ruas sepanjang 22 K.M. Laboeanratoe-Tjigenegeng rampung.
+
+Di sisi Palembang berjalan lebih cepat. Di sana pada 1 November 1915 tidak kurang dari 78 K.M. mulai dieksploitasi, yaitu ruas dari Kertapati ke Praboemoelih. Pada 1 Desember 1916 menyusul ruas Praboemoelih-Goenoeng Megang. Pada 2 April 1917 lintas sampai Moeara Enim telah sepenuhnya dieksploitasi. Namun timbul kebutuhan untuk menghubungkan Tandjoeng Enim, tempat batubara Lematang ditambang di tambang-tambang pemerintah Boekit Asem, dengan
+
+[hal. 102]
+
+lintas utama. Undang-undang 11 Januari 1911 (Ind. Stbl. No 130) [tercetak demikian pada pindaian hal. 102] membuka kemungkinan untuk itu; pada 1 September 1919 lintas samping sepanjang 13 K.M. rampung.
+
+Di sisi Lampong pekerjaan selesai pada 1 Februari 1917 dengan lintas Tegineneng-Hadjipemangilan sepanjang 24 K.M., sedangkan pada 1 Februari 1918 menyusul ruas sepanjang 14 K.M. dari tempat yang disebut terakhir sampai Blambangan.
+
+Cukup lama pekerjaan berjalan sangat buruk, akibat kekurangan material pada masa perang dan pascaperang dan kemudian akibat kemerosotan keuangan, yang membuat penghentian pekerjaan dipertimbangkan dengan serius.
+
+Dari lintas selatan, pada 2 Januari 1921 masih mulai dieksploitasi ruas sampai Kottaboemi (20 K.M.), pada 1 Juni 1923 ruas Kottaboemi-Tjempaka (8 K.M.), dan pada 7 Juni 1925 ruas sepanjang 21 K.M. dari Tjempaka sampai Negararatoe. Dari lintas utara, pada 15 September 1922 ruas Praboemoelih-Penindjawan sepanjang 56 K.M., pada 1 Juli 1923 ruas Penindjawan ke Batoeradja sepanjang 38 K.M., dan pada 16 November 1925 bagian lintas Batoeradja-Martapoera sepanjang 33 K.M. dapat dieksploitasi. Bagian Negararatoe sampai Martapoera, panjangnya kira-kira 70 K.M., ternyata belum rampung. Memang pada 21 April 1924 lintas Moeara Enim ke Lahat sepanjang 37 K.M. telah selesai, dan pada 27 Mei 1921 ruas kecil Telokbetong-Garoentang (4 K.M.); pembangunan kedua lintas ini diputuskan masing-masing dengan undang-undang 22 Desember 1919 (Ind. Stbl. 1920 No 53) dan 6 Juni 1919 (Ind. Stbl. No 308).
+
+Pada 22 Februari 1927 terwujud sambungan di Blambangan Oempoe, dan dengan perayaan besar Kepala Inspektur S.S. dan Tr., Tuan W.F. Staargaard, memperingati kenyataan bahwa setelah 15 tahun bekerja lintas itu, panjang 528 K.M., yang menelan biaya kira-kira ƒ 58.000.000, telah rampung. Yang menarik ialah bahwa angkutan di sepanjang lintas berkembang luar biasa, sehingga pada akhir 1925 lintas-lintas Sumatra Selatan yang disebut tidak menguntungkan ini telah memberikan hasil bersih 3.7% dari modal pembangunan. Tidak diragukan, turut berperan untuk mencapai hasil yang menguntungkan ini fakta bahwa eksploitasi kereta api Sumatra Selatan berlangsung sangat sederhana, yaitu sebagai trem.
+
+Pembangunan tidak dihentikan, karena pembentuk undang-undang anggaran
+
+[hal. 103]
+
+pada 1927 — undang-undang 30 April 1927 Ind. Stbl. No 150 — menyetujui dana untuk pembangunan lebih lanjut ke arah utara sepanjang 120 K.M. dan berjalan dari Lahat melalui Tebing Tinggi dan Moeara Saling ke suatu titik di dekat Loeboek Linggau.
+
+Sebelumnya, dalam Bab VII, telah kita lihat bahwa sebagai akibat pembangunan lintas-lintas Sumatra Selatan, lintas kecil Tjilegon-Merak di Jawa mulai dieksploitasi pada 1 Desember 1914. Koninklijke Paketvaart Maatschappij kini menyelenggarakan dinas feri teratur antara Merak dan Oosthaven.
+
+<!-- Sumber: /tmp/book.txt:6807-6892 -->
+
+## Bab XII. Lintas-Lintas Lain di Daerah-Daerah Luar Jawa
+
+Sebelum meninggalkan Sumatra, perlu disebutkan rencana-rencana pembangunan jalan kereta api di Tapanoeli. Sejak 1897 Tuan G.P.J. Caspersz telah mengajukan konsesi untuk sebuah trem uap dari Sibolga sampai Garoga dengan lebar sepur 0.7 M., yang diperolehnya dengan keputusan 14 April 1899. Konsesi ini, seperti halnya permohonan-permohonan lain dari masa kemudian, tidak menghasilkan pembangunan apa pun. Dalam Bab VIII, ketika membicarakan penjajakan Sumatra Tengah oleh insinyur kepala Ligtvoet, telah disebutkan pula lintas-lintas yang dianggap perlu di daerah ini.
+
+Pada 1911 Tuan Ruys meminta hak prioritas untuk sebuah lintas trem. Hasil perundingan lebih lanjut ialah dipertimbangkannya pendirian sebuah perusahaan campuran, yang untuknya dicantumkan pos pro memori dalam rancangan anggaran untuk 1919. Karena tentangan Volksraad, pos itu ditarik kembali (27 Juni 1918).
+
+Survei baru oleh Negara menghasilkan keputusan pembentuk undang-undang yang mendukung pembangunan oleh negara (undang-undang 28 Februari 1920 Ind. Stbl. No 150). Akibat kemerosotan keuangan setelah Perang Besar, pembangunan untuk sementara ditunda. Namun, pada 1927 S.S. memutuskan secara definitif untuk tidak melaksanakan pembangunan, karena sarana angkutan lain di daerah-daerah yang dimaksud telah cukup melayani lalu lintas yang relatif sedikit.
+
+Upaya untuk membangun dan mengoperasikan lintas-lintas trem di Celebes Selatan melalui perusahaan campuran juga gagal, bersamaan dengan rencana Tapanoeli di Sumatra yang disebut di atas. Dalam sidang Volksraad tanggal 27 Juni 1918, pos pro memori itu ditarik dari anggaran.
+
+Namun, pembangunan oleh negara dapat dimulai setelah dana yang diminta untuk sebuah lintas trem Takalar-Makassar-Maros disetujui dengan undang-undang 22 Desember 1919 (Ind. Stbl. 1920 No 53).
+
+Pada 1 Juli 1922 ruas sepanjang 47 K.M. dari Makassar (Pasarboetoeng) sampai Takalar mulai dieksploitasi. Pembangunan ruas
+
+[hal. 105]
+
+Makassar-Maros tidak dimulai akibat kelesuan ekonomi yang terjadi. Nasib yang sama menimpa perpanjangan Maros-Tanete, yang dananya telah disetujui dengan undang-undang 18 Maret 1921 (Ind. Stbl. No 200).
+
+Di tempat-tempat lain pembangunan kereta api dan trem juga dibicarakan dengan tingkat kesungguhan yang berbeda-beda, misalnya di Celebes Utara, Borneo, Bali, dan Lombok. Karena tampaknya pembangunan jalan kereta api di sana belum akan terwujud dalam waktu dekat, rencana-rencana ini tidak perlu dibicarakan lebih lanjut dalam sejarah singkat ini.
