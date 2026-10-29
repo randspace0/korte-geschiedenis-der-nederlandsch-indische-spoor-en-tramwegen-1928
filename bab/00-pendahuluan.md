@@ -40,3 +40,17 @@ Apeldoorn, Januari 1928.
 **S. A. Reitsma**
 
 Pejabat tinggi yang diperbantukan pada Jawatan Kereta Api dan Trem Negara di Hindia Belanda, sedang cuti di Belanda.
+
+## Peta
+
+### Jawa dan Madura
+
+![Peta jaringan kereta api, trem, dan layanan mobil negara di Jawa dan Madura, dengan nama tempat serta legenda jenis jalur.](../assets/images/peta-jawa-madura.jpg)
+
+*Peta kereta api dan trem Jawa dan Madura. Dalam buku asli, peta ini terletak sebelum Bab I.*
+
+### Sumatra dan Celebes
+
+![Peta jaringan kereta api, trem, dan layanan mobil negara di Sumatra, dengan inset jalur trem di barat daya Celebes (Sulawesi).](../assets/images/peta-sumatra-celebes.jpg)
+
+*Peta kereta api dan trem Sumatra dan Celebes. Dalam buku asli, peta ini terletak sebelum Bab VIII.*

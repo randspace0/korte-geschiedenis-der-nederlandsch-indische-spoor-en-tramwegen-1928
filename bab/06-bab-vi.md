@@ -26,7 +26,9 @@ Sangat penting bagi perkeretaapian di Jawa ialah terwujudnya sebuah perjanjian d
 
 Meninjau kurun yang diuraikan di sini, orang tidak dapat mengatakan bahwa perluasan jaringan negara ditandai oleh keuletan yang besar. Dalam hal-hal lain pun terungkap bahwa pimpinan S.S. kurang memadai. Akibatnya, berulang kali dicari perbaikan keadaan. Hal itu tidak mudah, karena yang dipersoalkan ialah kesalahan organisasi yang tidak hendak diperbaiki oleh Pemerintah dan yang sudah bermula sejak 1888. Diketahui bahwa sebelum waktu itu S.S. menempati kedudukan tersendiri dalam tatanan kepegawaian Hindia dan bahwa kepada Direktur Jenderal telah diberikan wewenang besar. Bagi Direktur B.O.W. pada masa itu, H.L. Janssen van Raay, hal ini merupakan duri dalam mata. Walaupun ada protes Inspektur Jenderal Derx, ia berhasil meyakinkan Gubernur Jenderal van Rees tentang perlunya mengakhiri kedudukan di luar jalur kepegawaian dari Tuan Derx, sehingga dengan keputusan 18 Februari 1888 No 1, S.S. dihapuskan sebagai dinas tersendiri. Tuan Derx memang mempertahankan gelarnya, tetapi wewenangnya sangat dipangkas. Ia hanya menjadi pegawai biro pada Direktur Burgerlijke Openbare Werken, yakni penasihatnya dalam urusan yang berkaitan dengan jalan kereta api dan dinas uap (stoomwezen). Pemimpin perusahaan kereta api sesungguhnya ialah kepala departemen, yang kepadanya para kepala eksploitasi Lintas Timur dan Lintas Barat serta para kepala pembangunan berhubungan langsung.
 
-[Gambar sisipan antara hal. 60 dan 61 (bukan catatan kaki): potret seorang pria berkumis. Keterangan gambar: "H. F. van Stipriaan Luïscius."]
+![H. F. van Stipriaan Luïscius duduk menyamping dengan satu tangan menopang wajah.](../assets/images/potret-h-f-van-stipriaan-luiscius.jpg)
+
+*H. F. van Stipriaan Luïscius. Gambar sisipan antara hal. 60 dan 61.*
 
 [hal. 61]
 

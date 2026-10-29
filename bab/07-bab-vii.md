@@ -64,7 +64,9 @@ Sebelum beralih ke sejarah kereta api swasta dalam kurun sesudah 1906, perlu leb
 
 Agar uraian tidak menjadi tidak lengkap, tidak boleh dilewatkan untuk menarik perhatian pada dua perjanjian dengan N.I.S.M. yang sangat besar pengaruhnya atas lalu lintas kereta api, yaitu terwujudnya sebuah perjanjian (19 Juni-1 Juli 1925) yang di dalamnya
 
-[Gambar sisipan antara hal. 74 dan 75 (bukan catatan kaki): dua foto lokomotif. Keterangan gambar atas: "Oude berglijn-locomotief (1874)." (Lokomotif lintas gunung lama (1874)). Keterangan gambar bawah: "Moderne berglijn-locomotief (1924)." (Lokomotif lintas gunung modern (1924)).]
+![Dua foto lokomotif lintas gunung: lokomotif tangki lama tahun 1874 di atas dan lokomotif bertender modern tahun 1924 di bawah.](../assets/images/lokomotif-lintas-gunung-1874-1924.jpg)
+
+*Oude berglijn-locomotief (1874). (Lokomotif lintas gunung lama (1874)). Moderne berglijn-locomotief (1924). (Lokomotif lintas gunung modern (1924)). Gambar sisipan antara hal. 74 dan 75.*
 
 [hal. 75]
 
@@ -128,7 +130,9 @@ Oost-Java Stoomtram Maatschappij hanya mengalami perluasan kecil dengan rampungn
 
 Jaringan kota O.J.S. mengalami perubahan penting. Pertama, dengan keputusan tanggal 25 November 1916 No 56, O.J.S. memperoleh konsesi untuk lintas trem uap sepanjang 16 K.M. dari Regent-
 
-[Gambar sisipan antara hal. 78 dan 79 (bukan catatan kaki): foto sebuah kereta motor listrik di stasiun. Keterangan gambar: "S. S Motorrijtuig (1925)." (Kendaraan bermotor S.S. (1925)).]
+![Kereta motor listrik S.S. dengan pantograf di bawah jaringan listrik atas, bersama sejumlah pekerja di sampingnya.](../assets/images/kereta-motor-listrik-ss-1925.jpg)
+
+*S. S Motorrijtuig (1925). (Kendaraan bermotor S.S. (1925)). Gambar sisipan antara hal. 78 dan 79.*
 
 [hal. 79]
 

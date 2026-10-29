@@ -22,7 +22,9 @@ Mengenai perlengkapan, menteri mengirim kira-kira dua puluh as roda gigi (rondse
 
 Di Hindia orang sangat skeptis terhadap rencana-rencana Baud. Tentang larangan menyembelih kerbau orang tidak mau tahu, sementara Gubernur Jenderal Mr. P. Merkus menyatakan
 
-[Gambar sisipan antara hal. 6 dan 7 (bukan catatan kaki): foto kelompok sembilan pria, lima berdiri dan empat duduk. Keterangan gambar: "Commissie tot de Vervoermiddelen." (Komisi Sarana Angkutan).]
+![Sembilan anggota Komisi Sarana Angkutan berfoto bersama, lima berdiri dan empat duduk.](../assets/images/komisi-sarana-angkutan.jpg)
+
+*Commissie tot de Vervoermiddelen. (Komisi Sarana Angkutan). Gambar sisipan antara hal. 6 dan 7.*
 
 [hal. 7]
 
@@ -66,7 +68,9 @@ Perundingan antara Gubernur Jenderal dan Menteri melahirkan Keputusan Raja yang 
 
 Namun keputusan ini tidak banyak membuahkan hasil. Keputusan itu merujuk para pemohon kepada Gubernur Jenderal, tidak menyebut sepatah kata pun tentang dukungan yang dapat diberikan Pemerintah, sedangkan ditetapkan syarat bahwa konsesi tidak akan diberikan sebelum dari suatu penyelidikan khusus ternyata bahwa pembangunan jalan di tempat yang ditunjukkan itu berguna dan dapat dilaksanakan. Dengan tiadanya peta yang dapat diandalkan dan data ekonomi, syarat terakhir ini mengakibatkan bahwa para pemohon konsesi harus lebih dahulu mengeluarkan modal besar
 
-[Gambar sisipan antara hal. 10 dan 11 (bukan catatan kaki): potret oval seorang pria. Keterangan gambar: "W. Poolman."]
+![Potret oval W. Poolman mengenakan jas dan dasi kupu-kupu.](../assets/images/potret-w-poolman.jpg)
+
+*W. Poolman. Gambar sisipan antara hal. 10 dan 11.*
 
 [hal. 11]
 
@@ -114,7 +118,9 @@ Dengan Keputusan Pemerintah tanggal 21 Agustus 1860 No. 52, para pemohon konsesi
 
 Setelah Tuan-tuan Stieltjes, Dixon, dan Jhr. C. van Panhuys tiba di Jawa, mereka segera diberi tahu beberapa desiderata Pemerintah Hindia dan para penasihatnya, yakni bahwa pencarian sarana untuk pengangkutan penumpang yang dipercepat merupakan pokok utama, bahwa harus diperhitungkan tuntutan pemusatan dan pemindahan pasukan, bahwa dalam pembangunan tidak boleh dipakai kerja wajib (herendiensten), melainkan kerja bebas harus menjadi aturan dengan kemungkinan mendatangkan kuli Tionghoa, dan bahwa akhirnya pemakaian ternak sebagai tenaga penarik harus ditolak. Tuan Stieltjes membayangkan akan membuat sebuah avant-projet (rancangan awal) jaringan jalan kereta api di seluruh Jawa, berkaitan dengan jalan air yang ada dan yang akan digali; namun Pemerintah Hindia menyatakan bahwa pertama-tama ia menghendaki rencana yang tepat untuk sebuah lintas dari Semarang ke
 
-[Gambar sisipan antara hal. 14 dan 15 (bukan catatan kaki): potret oval seorang pria berjenggot. Keterangan gambar: "D. Maarschalk."]
+![Potret oval D. Maarschalk dengan janggut putih.](../assets/images/potret-d-maarschalk.jpg)
+
+*D. Maarschalk. Gambar sisipan antara hal. 14 dan 15.*
 
 [hal. 15]
 

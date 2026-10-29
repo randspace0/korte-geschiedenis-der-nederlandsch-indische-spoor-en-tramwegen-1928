@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{{ title | escape }} · Reitsma 1928</title>
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <script src="/assets/js/theme.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#bacaan">Langsung ke bacaan</a>
+  <header class="site-header">
+    <a class="book-name" href="/index.html">Reitsma <span>1928</span></a>
+    <div class="reading-tools">
+      <a href="/daftar-isi.html">Daftar isi asli</a>
+      <button id="theme-toggle" type="button" aria-pressed="false" hidden>Mode gelap</button>
+    </div>
+    <details class="book-menu">
+      <summary>Bagian buku</summary>
+      <nav aria-label="Bagian buku">
+        <ol>
+          {% for item in collections.book %}
+          <li><a href="{{ item.url }}"{% if item.url == page.url %} aria-current="page"{% endif %}>{{ item.title | escape }}</a></li>
+          {% endfor %}
+        </ol>
+      </nav>
+    </details>
+  </header>
+  <main id="bacaan" tabindex="-1">
+    <article class="prose">{{ content | safe }}</article>
+    {% set adjacent = collections.book | neighbors(page.url) %}
+    <nav class="chapter-navigation" aria-label="Urutan bacaan">
+      {% if adjacent.previous %}
+      <a href="{{ adjacent.previous.url }}" rel="prev"><span>Sebelumnya</span>{{ adjacent.previous.title | escape }}</a>
+      {% elif page.url != '/index.html' %}
+      <a href="/index.html" rel="prev"><span>Sebelumnya</span>Pengantar edisi ini</a>
+      {% endif %}
+      {% if adjacent.next %}
+      <a href="{{ adjacent.next.url }}" rel="next"><span>Berikutnya</span>{{ adjacent.next.title | escape }}</a>
+      {% endif %}
+    </nav>
+  </main>
+  <footer class="site-footer"><a href="/index.html">Tentang terjemahan ini</a><a href="#bacaan">Kembali ke awal bacaan</a></footer>
+</body>
+</html>

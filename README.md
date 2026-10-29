@@ -4,9 +4,11 @@ Terjemahan bahasa Indonesia dari S. A. Reitsma, *Korte geschiedenis der Nederlan
 
 **Status: lengkap untuk teks OCR yang tersedia.** Mencakup halaman judul, kata pengantar, Bagian A (Bab I–VII), Bagian B (Bab VIII–XII), Lampiran I–III, dan daftar isi asli. Setiap bagian dapat dibaca sendiri tanpa membuka berkas sumber.
 
-**Cara membaca:** `[hal. N]` menandai pergantian halaman cetak asli; halaman pembuka bab tidak bernomor sehingga tidak diberi tanda. Teks dalam kurung siku adalah catatan pembaca: keterangan gambar, angka atau tanggal yang meragukan, dan kekeliruan yang memang tercetak dalam buku dan sengaja tidak diperbaiki. Peta dan foto tidak disertakan; hanya keterangan gambarnya yang dimuat.
+**Cara membaca:** `[hal. N]` menandai pergantian halaman cetak asli; halaman pembuka bab tidak bernomor sehingga tidak diberi tanda. Teks dalam kurung siku adalah catatan pembaca tentang angka atau tanggal yang meragukan dan kekeliruan yang memang tercetak dalam buku dan sengaja tidak diperbaiki.
 
 **Batas ketelitian:** teks telah dibandingkan dengan hasil pembacaan sumber; tabel kedua lampiran dan daftar pustaka juga diperiksa pada pindaian. Sebagian halaman bab belum dicocokkan karakter demi karakter dengan pindaian. Bacaan yang tidak dapat dipastikan tetap ditandai, bukan ditebak. Perbedaan angka atau tanggal antarbab dan lampiran yang memang tercetak dalam buku dipertahankan.
+
+**Gambar dan peta:** dua peta serta tujuh ilustrasi buku disematkan pada Markdown sebagai delapan berkas JPEG lokal; kedua foto lokomotif berada dalam satu pindaian. Gambar diekstrak langsung dari PDF tanpa pembesaran atau kompresi ulang. Peta tersedia pada pendahuluan; foto berada di bab yang bersangkutan. Huruf kecil pada peta dibatasi mutu pindaian asli (75 dpi), dan label di dalam gambar tetap dalam bahasa aslinya.
 
 ## Isi
 
@@ -30,3 +32,24 @@ Terjemahan bahasa Indonesia dari S. A. Reitsma, *Korte geschiedenis der Nederlan
 - [Lampiran II. Panjang lintas dan tanggal pembukaan](lampiran/02-lampiran-ii.md)
 - [Lampiran III. Daftar pustaka](lampiran/03-lampiran-iii.md)
 - [Daftar isi asli, termasuk daftar peta dan gambar](daftar-isi.md)
+
+## Cara membaca
+
+Buka `index.html` untuk halaman sampul. Daftar isi dan navigasi antarbab ada di setiap halaman. Catatan kaki bernomor dan dapat diklik dua arah. Tabel lampiran dapat digeser mendatar di layar sempit.
+
+## Gambar dan peta
+
+Gambar diambil langsung dari berkas PDF asli (JPEG), bukan tangkapan layar. Peta Jawa-Madura dan peta Sumatra-Celebes ditempatkan di bagian pendahuluan, sesuai letaknya di buku asli. Beberapa tulisan pada peta tidak terbaca sepenuhnya karena resolusi pindaian 75 dpi.
+
+## Pengembangan
+
+Syarat: Node.js 22 (lihat `.nvmrc`).
+
+```sh
+npm ci
+npm run dev     # pratinjau lokal
+npm run build   # hasil di _site/
+npm test
+```
+
+Deploy: Cloudflare Pages dengan integrasi Git. Build command `npm run build`, output directory `_site`, production branch `main`, variabel `NODE_VERSION=22`.
